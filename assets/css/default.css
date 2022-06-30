@@ -1,0 +1,297 @@
+@import "hover-min.css";
+@import "style.css";
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Lato:wght@100;400;700&display=swap');
+@import url('https://unpkg.com/aos@2.3.1/dist/aos.css');
+
+:root {
+    --primary     : #F58696;
+    --secondary   : #79D6D7;
+    --tertiary    : #F0AFAB;
+    --green       : #CCD6BD;
+    --white       : #FFFFFF;
+    --black       : #000;
+    --grey        : #474747;
+    --grey-2      : #EEE;
+    --redError    : #B41717;
+    --greenSuccess: #50CA06;
+
+    --font  : Lato, Helvetica, sans-serif;
+    --font-2: Courgette, Helvetica, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin    : 0;
+    padding   : 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+li {
+    list-style-type: none;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    width      : 100%;
+    max-width  : 100%;
+    font-family: var(--font);
+    font-weight: 400;
+    overflow-x : hidden;
+}
+
+/* Containers */
+.container-title {
+    max-width: 100%;
+    width    : 1200px;
+}
+
+.container-2 {
+    max-width: 100%;
+    width    : 1200px;
+}
+
+.container-3 {
+    max-width: 100%;
+    width    : 600px;
+}
+
+/* Font */
+.font-2 {
+    font-family: var(--font-2);
+}
+
+/* Backgrounds */
+.bg-primary {
+    background-color: var(--primary);
+}
+
+.bg-white {
+    background-color: var(--white);
+}
+
+/* Text color */
+.text-primary {
+    color: var(--primary);
+}
+
+.text-secondary {
+    color: var(--secondary);
+}
+
+.text-tertiary {
+    color: var(--tertiary);
+}
+
+.text-white {
+    color: var(--white);
+}
+
+.text-black {
+    color: var(--black);
+}
+
+.text-grey {
+    color: var(--grey);
+}
+
+.text-grey-2 {
+    color: var(--grey-2);
+}
+
+.hr-tertiary {
+    border    : 0;
+    border-top: 0.01px solid var(--secondary);
+    width     : 100%;
+}
+
+/* Flex */
+.d-flex {
+    display: flex;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+/* Text size */
+.text-0 {
+    font-size  : 0.8rem;
+    font-weight: 100;
+}
+
+.text-1 {
+    font-size: 1rem;
+}
+
+.text-2 {
+    font-size: 1.3rem;
+}
+
+.text-3 {
+    font-size: 1.6rem;
+}
+
+.text-4 {
+    font-size: 2rem;
+}
+
+.text-5 {
+    font-size: 2.5rem;
+}
+
+.text-6 {
+    font-size: 3rem;
+}
+
+.text-7 {
+    font-size: 3.5rem;
+}
+
+.text-8 {
+    font-size: 4rem;
+}
+
+.text-9 {
+    font-size: 4.5rem;
+}
+
+.text-10 {
+    font-size: 5rem;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.text-regular {
+    font-weight: 400;
+}
+
+.text-bold {
+    font-weight: 700;
+}
+
+/* Text align */
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+
+
+/* Margins */
+.mt-1 {
+    margin-top: 8px;
+}
+
+.mt-2 {
+    margin-top: 16px;
+}
+
+.mt-3 {
+    margin-top: 32px;
+}
+
+.mt-4 {
+    margin-top: 64px;
+}
+
+.mt-5 {
+    margin-top: 128px;
+}
+
+.mt-6 {
+    margin-top: 254px;
+}
+
+.mr-1 {
+    margin-right: 8px;
+}
+
+.mr-2 {
+    margin-right: 16px;
+}
+
+.mr-3 {
+    margin-right: 32px;
+}
+
+.mr-4 {
+    margin-right: 64px;
+}
+
+.mr-5 {
+    margin-right: 128px;
+}
+
+.mr-6 {
+    margin-right: 254px;
+}
+
+.ml-1 {
+    margin-left: 8px;
+}
+
+.ml-2 {
+    margin-left: 16px;
+}
+
+.ml-3 {
+    margin-left: 32px;
+}
+
+.ml-4 {
+    margin-left: 64px;
+}
+
+.ml-5 {
+    margin-left: 128px;
+}
+
+.ml-6 {
+    margin-left: 254px;
+}
+
+.mb-1 {
+    margin-bottom: 8px;
+}
+
+.mb-2 {
+    margin-bottom: 16px;
+}
+
+.mb-3 {
+    margin-bottom: 32px;
+}
+
+.mb-4 {
+    margin-bottom: 64px;
+}
+
+.mb-5 {
+    margin-bottom: 128px;
+}
+
+.mb-6 {
+    margin-bottom: 254px;
+}
