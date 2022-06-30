@@ -25,7 +25,7 @@
             <nav class="bg-white text-black">
                 <ul class="container-2">
                     <div class="logo">
-                        <img src="assets/images/logo.svg" alt="">
+                        <img src="assets/images/logo.png" alt="">
                     </div>
                     <div>
 
