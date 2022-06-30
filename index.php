@@ -191,6 +191,28 @@
                     </div>
 
                     <div class="card-4">
+                        <img src="assets/media/josi.png" alt="Josi Konkol">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p class="">
+                                    Josi Konkol,
+                                </p>
+                                <p class="mt-1">
+                                    formada em Publicidade e Propaganda e Pós Graduada em Marketing e Moda. É Infoprodutora e empresária digital.
+                                    Mentora mulheres e treina líderes de negócios através do seu método DNA DA VENDA DIGITAL. Vai te mostrar como o MKT Digital pode transformar o seu negócio.
+                                </p>
+                            </div>
+                            <div class="div-social">
+                                <a href="https://www.instagram.com/josikonkol/?hl=pt-br" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>josikonkol</a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold">Josi Konkol</span>
+                            <span>Não sei o que faz da vida</span>
+                        </div>
+                    </div>
+
+                    <div class="card-4">
                         <img src="assets/media/tiago.png" alt="Tiago Grando">
                         <div class="hover-description text-grey">
                             <div class="text-1">
