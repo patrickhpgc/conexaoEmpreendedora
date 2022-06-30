@@ -104,7 +104,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="">
+                <div >
                     <div class="div-img-thinking ml-4">
                         <img src="assets/images/logo-oficial.png" alt="Logo">
                     </div>
