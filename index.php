@@ -412,7 +412,7 @@
                 </div>
                 <div class="">
                     <div class="div-img-thinking ml-4">
-                        <img src="assets/media/banner.png" alt="Representação de investimentos">
+                        <img src="assets/media/banner.webp" alt="Representação de investimentos">
                     </div>
                 </div>
             </div>
