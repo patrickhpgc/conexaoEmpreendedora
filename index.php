@@ -118,7 +118,7 @@
                 <p class="text-4">O que você irá aprender no conexão empreendedora?</p>
             </div>
 
-            <div class="container-2" data-aos="fade-up">
+            <div class="container-2 mt-4" data-aos="fade-up">
                 <div class="div-cards">
                     <div class="card">
                         <i class="fa-solid fa-brain mr-2 text-3 text-primary"></i>

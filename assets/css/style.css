@@ -197,7 +197,7 @@ div > .div-img-thinking {
 .div-cards-2 {
     display        : flex;
     flex-wrap      : wrap;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .card-2 {
@@ -207,7 +207,7 @@ div > .div-img-thinking {
     align-items     : center;
     max-width       : 210px;
     min-width       : 210px;
-    margin          : 8px;
+    margin: 8px 0;
     background-color: var(--tertiary);
     color           : var(--white);
     border-radius   : 8px;
