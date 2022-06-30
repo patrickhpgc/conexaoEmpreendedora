@@ -381,7 +381,7 @@
                     </div>
                     <div class="card-3">
                         <div>
-                            <img src="https://images.pexels.com/photos/6456291/pexels-photo-6456291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+                            <img src="https://images.pexels.com/photos/2574616/pexels-photo-2574616.jpeg?cs=srgb&dl=pexels-oladimeji-ajegbile-2574616.jpg&fm=jpg" alt="">
                         </div>
                         <div>
                             <p class="text-2 text-bold">Para empreendedores que querem se desenvolver ainda mais.</p>
