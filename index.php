@@ -106,7 +106,7 @@
                 </div>
                 <div class="" data-aos="fade-left">
                     <div class="div-img-thinking ml-4">
-                        <img src="assets/images/logo-oficial.svg" alt="Logo">
+                        <img src="assets/images/logo-oficial.png" alt="Logo">
                     </div>
                 </div>
             </div>
