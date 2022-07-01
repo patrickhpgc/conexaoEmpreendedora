@@ -428,3 +428,20 @@ footer {
     color           : var(--white);
     padding         : 64px 32px;
 }
+
+/* preloader */
+#loader {
+    opacity: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.7s;
+}
