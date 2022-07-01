@@ -559,10 +559,10 @@
                 $('#loader').css('opacity', '0');
                 $('body').css('overflow', 'scroll');
                 $('body').css('overflow-x', 'hidden');
-            }, 1500);
+            }, 500);
             setTimeout(() => {
                 $('#loader').hide();
-            }, 1700);
+            }, 700);
         });
     </script>
 
