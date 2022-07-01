@@ -311,7 +311,7 @@
                                     Jéssica Capistrano,
                                 </p>
                                 <p class="mt-1">
-                                    empreendedora, mulher, mãe, cosmetóloga e esteticista a mais de dez anos, proprietária da @jc_esteticaedermocosmeticos.
+                                    cosmetóloga e Esteticista, Pós Graduanda em Dermocosméticos, futura biomédica, professora, mãe, amante da estética, proprietária da JC Estética e Cursos. Empreende a mais de 10 anos na área da Beleza e Estética, traz suas experiências clínicas e vivências para ensinar e auxiliar suas alunas e mentoradas a impulsionarem seus negócios.
                                 </p>
                             </div>
                             <div class="div-social">
@@ -404,7 +404,7 @@
             <div class="container-2 d-flex align-items-center">
                 <div class="text-left" style="padding: 30px 20px;">
                     <p class="text-4 text-bold">Unidas por um Propósito: Conectar e preparar empreendedores para conquistar resultados e desenvolver suas habilidades.</p>
-                    <p class="text-2 mt-1">Focadas no mesmo propósito, passando pelas mesmas dores e dificuldades e, procurando a mesma solução para ajudar ainda mais pessoas, Analice Ramlow e Jessica Capistrano, vem se unindo e especializando cada vez mais para lhe proporcionar maior desenvolvimento como empreendedor e elevar o nível do seu negócio.</p>
+                    <p class="text-2 mt-1">Focadas no mesmo propósito, passando pelas mesmas dores e dificuldades e, procurando a mesma solução para ajudar ainda mais pessoas, Analice Ramlow e Jéssica Capistrano, vem se unindo e especializando cada vez mais para lhe proporcionar maior desenvolvimento como empreendedor e elevar o nível do seu negócio.</p>
                     <p class="text-2 text-bold mt-1">Prepare-se para virar a chave e se transformar no Conexão Empreendedora, uma experiência unica que você merece vivenciar.</p>
                     <div class="mt-2" style="text-align:center;border-top: 1px dashed grey;padding: 10px;">
                         <p class="text-2 text-bold">Te esperamos no Conexão Empreendedora.</p>
@@ -548,11 +548,17 @@
     <script src="assets/js/index.js"></script>
     <script src="assets/js/jquery.js"></script>
     <script>
+        // animation
         AOS.init();
 
-        $(document).ready(function() {            
+        // preloader
+        $('body').css('overflow', 'hidden');
+        
+        $(document).ready(function() {
             setTimeout(() => {
                 $('#loader').css('opacity', '0');
+                $('body').css('overflow', 'scroll');
+                $('body').css('overflow-x', 'hidden');
             }, 1500);
             setTimeout(() => {
                 $('#loader').hide();
