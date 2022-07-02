@@ -189,6 +189,27 @@
                             <span>CEO You Glow</span>
                         </div>
                     </div>
+                    
+                     <div class="card-4">
+                        <img src="assets/media/andriele.png" alt="Andriele Walter">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p>
+                                    Morgana Wagner,
+                                </p>
+                                <p class="mt-1">
+                                    formada em Administração, MBA em Finanças Empresariais, Gestão de Pessoas, tem experiência de 15 anos na Extratos da Terra, na qual hoje é diretora de Distribuição da Grande Florianópolis. Uma de suas grandes paixões é levar a beleza que faz bem às pessoas que a cercam, clientes e parceiros, e vai te contar os segredos e bastidores de como tudo isso é possível.
+                                </p>
+                            </div>
+                            <div class="div-social">
+                                <a href="https://www.instagram.com/andrielewalter/" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>andrielewalter</a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold">Morgana Wagner</span>
+                            <span>Diretora de distribuição da Extratos da Terra</span>
+                        </div>
+                    </div>
 
                     <div class="card-4">
                         <img src="assets/media/josi.png" alt="Josi Konkol">
@@ -208,7 +229,7 @@
                         </div>
                         <div class="border-name text-white">
                             <span class="text-2 text-bold">Josi Konkol</span>
-                            <span>Não sei o que faz da vida</span>
+                            <span>Empresária digital e Infoprodutora</span>
                         </div>
                     </div>
 
