@@ -190,9 +190,8 @@
                         </div>
                     </div>
                     
-                    <!--
                     <div class="card-4">
-                        <img src="assets/media/andriele.png" alt="Andriele Walter">
+                        <img src="assets/media/morgana.jpeg" alt="Andriele Walter">
                         <div class="hover-description text-grey">
                             <div class="text-1">
                                 <p>
@@ -203,7 +202,7 @@
                                 </p>
                             </div>
                             <div class="div-social">
-                                <a href="https://www.instagram.com/andrielewalter/" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>andrielewalter</a>
+                                <a href="https://instagram.com/morganaws?igshid=YmMyMTA2M2Y=" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>morganaws</a>
                             </div>
                         </div>
                         <div class="border-name text-white">
@@ -211,7 +210,6 @@
                             <span>Diretora de distribuição da Extratos da Terra</span>
                         </div>
                     </div>
-                     -->
 
                     <div class="card-4">
                         <img src="assets/media/josi.png" alt="Josi Konkol">
