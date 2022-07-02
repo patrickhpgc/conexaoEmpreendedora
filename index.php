@@ -190,7 +190,8 @@
                         </div>
                     </div>
                     
-                     <div class="card-4">
+                    <!--
+                    <div class="card-4">
                         <img src="assets/media/andriele.png" alt="Andriele Walter">
                         <div class="hover-description text-grey">
                             <div class="text-1">
@@ -210,6 +211,7 @@
                             <span>Diretora de distribuição da Extratos da Terra</span>
                         </div>
                     </div>
+                     -->
 
                     <div class="card-4">
                         <img src="assets/media/josi.png" alt="Josi Konkol">
