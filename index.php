@@ -448,29 +448,29 @@
                     <p class="text-2">
                         <u>Pagamento via Cartão de Crédito</u>
                     </p>
-                    <p class="text-2 mt-3">2x de <span class="text-4 text-bold">R$ 48,50</span></p>
-                    <p class="text-1">ou R$ 97,00 à vista</p>
+                    <p class="text-2 mt-3">2x de <span class="text-4 text-bold">R$ 73,50</span></p>
+                    <p class="text-1">ou R$ 147,00 à vista</p>
                     <a href="https://www.asaas.com/c/312002267176" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">1° LOTE</span>
+                        <span class="text-0 text-regular">2° LOTE</span>
                     </div>
                 </div>
                 <div class="card-payment">
                     <p class="text-2">
                         <u>Pagamento via Pix</u>
                     </p>
-                    <p class="text-2 mt-3">apenas <span class="text-4 text-bold">R$ 97,00</span></p>
-                    <a href="https://nubank.com.br/cobranca/JadxXXFRDs11248i" target="_blank">
+                    <p class="text-2 mt-3">apenas <span class="text-4 text-bold">R$ 147,00</span></p>
+                    <a href="https://nubank.com.br/cobranca/JtwHOFUG9P11248i" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">1° LOTE</span>
+                        <span class="text-0 text-regular">2° LOTE</span>
                     </div>
                 </div>
             </div>
