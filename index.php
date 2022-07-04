@@ -189,9 +189,31 @@
                             <span>CEO You Glow</span>
                         </div>
                     </div>
-                    
+
                     <div class="card-4">
-                        <img src="assets/media/morgana.jpeg" alt="Andriele Walter">
+                        <img src="assets/media/jessica_rover.png" alt="Jessica Rover">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p>
+                                    Jessica Rover,
+                                </p>
+                                <p class="mt-1">
+                                    Mentora de profissionais da área da beleza, graduada em Cosmetologia e Estética, 10 anos de atendimento ao cliente. </p>
+                                <p class="mt-1">
+                                    Ensina mulheres a se tornarem poderosas na sua postura profissional e a oferecer um atendimento padrão 5 estrelas para suas clientes. </p>
+                            </div>
+                            <div class="div-social">
+                                <a href="https://www.instagram.com/jessicaroverr/?hl=pt-br" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>jessicaroverr</a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold">Jessica Rover</span>
+                            <span>Mentora de profissionais da área da beleza</span>
+                        </div>
+                    </div>
+
+                    <div class="card-4">
+                        <img src="assets/media/morgana.png" alt="Morgana Wagner">
                         <div class="hover-description text-grey">
                             <div class="text-1">
                                 <p>
@@ -574,7 +596,7 @@
 
         // preloader
         $('body').css('overflow', 'hidden');
-        
+
         $(document).ready(function() {
             setTimeout(() => {
                 $('#loader').css('opacity', '0');
