@@ -14,6 +14,28 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js" integrity="sha512-J9QfbPuFlqGD2CYVCa6zn8/7PEgZnGpM5qtFOBZgwujjDnG5w5Fjx46YzqvIh/ORstcj7luStvvIHkisQi5SKw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+    <!-- Global site tag (gtag.js) - Google Ads: 619621339 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-619621339"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-619621339');
+    </script>
+
+    <!-- Event snippet for Website sale conversion page -->
+    <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-619621339/u4f0CKuttcwDENvXuqcC',
+            'transaction_id': ''
+        });
+    </script>
+
+
     <title>Conexão empreendedora</title>
 </head>
 
