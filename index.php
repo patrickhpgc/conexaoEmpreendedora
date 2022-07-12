@@ -78,6 +78,10 @@
                                 <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                             </button>
                         </a>
+                        <a href="https://www.instagram.com/conexaobeautyy/?hl=pt-br" target="_blank" class="text-white mt-2" style="display: flex;align-items:center;">
+                            <i class="fa-brands fa-instagram text-3"></i>
+                            <span class="ml-1">Visite nosso instagram</span>
+                        </a>
                     </div>
 
                     <div class="div-img-banner ml-6">
@@ -589,7 +593,11 @@
 
     <footer>
         <div class="container-2">
-            <p>2022 - @conexaobeautyy - Todos os direitos reservados.</p>
+            <a href="https://www.instagram.com/conexaobeautyy/?hl=pt-br" target="_blank" class="text-white">
+                <i class="fa-brands fa-instagram text-3"></i>
+            </a>
+            <p class="text-2 mb-2">Visite nosso instagram</p>
+            <p>2022 - Conexão Beauty - Todos os direitos reservados.</p>
         </div>
     </footer>
 
