@@ -496,30 +496,64 @@
                     <p class="text-2">
                         <u>Pagamento via Cartão de Crédito</u>
                     </p>
-                    <p class="text-2 mt-3">2x de <span class="text-4 text-bold">R$ 73,50</span></p>
-                    <p class="text-1">ou R$ 147,00 à vista</p>
+                    <p class="text-2 mt-3">2x de <span class="text-4 text-bold">R$ 98,50</span></p>
+                    <p class="text-1">ou R$ 197,00 à vista</p>
                     <a href="https://www.asaas.com/c/312002267176" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">2° LOTE</span>
+                        <span class="text-0 text-regular">3° LOTE</span>
                     </div>
                 </div>
                 <div class="card-payment">
                     <p class="text-2">
                         <u>Pagamento via Pix</u>
                     </p>
-                    <p class="text-2 mt-3">apenas <span class="text-4 text-bold">R$ 147,00</span></p>
-                    <a href="https://nubank.com.br/cobranca/JtwHOFUG9P11248i" target="_blank">
+                    <p class="text-2 mt-3">apenas <span class="text-4 text-bold">R$ 197,00</span></p>
+                    <a href="https://nubank.com.br/cobranca/qcqBLq5zMP11248i" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">2° LOTE</span>
+                        <span class="text-0 text-regular">3° LOTE</span>
                     </div>
+                </div>
+                <div class="card-payment">
+                    <p class="text-2">
+                        <u>Semana do Amigo, descontão:</u>
+                    </p>
+                    <p class="text-2 mt-3">Comprando 2 ingressos você ganha 50% OFF no segundo!</span></p>
+                    <p class="text-2 mt-2">
+                        <u>Pagamento via Cartão de Crédito</u>
+                    </p>
+                    <p class="text-2 mt-3">2x de <span class="text-4 text-bold">R$ 147,75</span></p>
+                    <p class="text-1">ou R$  295,50 à vista</p>
+                    <p class="text-1 mt-3">Comprando este pacote você ganha 2 ingressos</p>
+                    <a href="https://www.asaas.com/c/244290112188" target="_blank">
+                        <button class="btn btn-secondary mt-3">
+                            <span class="text-2 text-bold">QUERO PARTICIPAR</span>
+                        </button>
+                    </a>
+                </div>
+                <div class="card-payment">
+                    <p class="text-2">
+                        <u>Semana do Amigo, descontão:</u>
+                    </p>
+                    <p class="text-2 mt-3">Comprando 2 ingressos você ganha 50% OFF no segundo!</span></p>
+                    <p class="text-2 mt-2">
+                        <u>Pagamento via Pix</u>
+                    </p>
+                    <p class="text-2 mt-3">apenas <span class="text-4 text-bold">R$ 295,50</span></p>
+                    <p class="text-1 mt-3">Comprando este pacote você ganha 2 ingressos</p>
+
+                    <a href="https://nubank.com.br/cobranca/cifcc1HKMa11248i" target="_blank">
+                        <button class="btn btn-secondary mt-3">
+                            <span class="text-2 text-bold">QUERO PARTICIPAR</span>
+                        </button>
+                    </a>
                 </div>
             </div>
         </section>
