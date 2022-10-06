@@ -6,7 +6,7 @@
     text-align           : center;
     color                : var(--white);
     min-height           : 100vh;
-    background-image     : url('../media/background.webp');
+    background-image     : url('../media/background-1.webp');
     background-repeat    : no-repeat;
     background-position  : 90% 10%;
     background-attachment: fixed;
@@ -22,7 +22,7 @@
     top             : 0;
     right           : 0;
     left            : 0;
-    background-color: rgba(245, 134, 150, 0.7);
+    background-color: rgba(245, 134, 150, 0.9);
     z-index         : 1;
 }
 

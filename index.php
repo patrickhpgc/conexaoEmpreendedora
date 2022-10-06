@@ -85,7 +85,7 @@
                     </div>
 
                     <div class="div-img-banner ml-6">
-                        <img src="assets/media/banner.png" alt="">
+                        <img src="assets/media/banner.webp" alt="">
                     </div>
                 </div>
             </div>
