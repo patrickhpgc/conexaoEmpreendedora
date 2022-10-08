@@ -66,12 +66,15 @@ function disableButton() {
 
 
 setTimeout(function () {
-    if(buttonReleased) {
+    if (buttonReleased) {
         enableButton();
         setTimeout(() => {
-            if(buttonReleased) {
+            if (buttonReleased) {
                 disableButton();
             }
         }, 7000);
     }
 }, Math.floor(Math.random() * 20000) + 10000);
+
+// Carregamento das fotos
+$(document).rea

@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+
+.idea
+.vscode
+.DS_Store
+.eslintrc
+
+package-lock.json

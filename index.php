@@ -11,8 +11,10 @@
     <link rel="stylesheet" href="assets/css/default.css">
     <link rel="stylesheet" href="assets/css/responsiveness.css">
 
+    <!-- Glide Js -->
+    <link rel="stylesheet" href="assets/glide-3.4.1/dist/css/glide.core.min.css">
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js" integrity="sha512-J9QfbPuFlqGD2CYVCa6zn8/7PEgZnGpM5qtFOBZgwujjDnG5w5Fjx46YzqvIh/ORstcj7luStvvIHkisQi5SKw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
     <!-- Global site tag (gtag.js) - Google Ads: 619621339 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-619621339"></script>
@@ -35,6 +37,8 @@
         });
     </script>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 
     <title>Conexão empreendedora</title>
 </head>
@@ -50,7 +54,6 @@
                         <img src="assets/images/logo-branco.png" alt="">
                     </div>
                     <div>
-
                         <a href="#about" class="text-2 text-white button hvr-underline-from-left">
                             <li>Sobre</li>
                         </a>
@@ -63,15 +66,20 @@
                         <a href="#locale" class="text-2 text-white button hvr-underline-from-left">
                             <li>Como chegar</li>
                         </a>
+                        <a href="#payment" style="display:flex;align-items:center;" class="link-pass ml-2">
+                            <button class="btn btn-secondary">
+                                <span class="text-1 text-bold">ADQUIRIR INGRESSSO</span>
+                            </button>
+                        </a>
                     </div>
                 </ul>
             </nav>
             <div class="div-banner">
                 <div class="container-2">
                     <div class="text-left">
-                        <p class="text-2 text-regular" style="border-bottom: 1px dotted white;">30 de julho, às 12h, em São José/SC</p>
-                        <p class="text-8 text-bold text-secondary font-2 mt-1 title">Conexão Empreendedora</p>
-                        <p class="text-2 mt-3">Um evento que une diversos setores e profissionais, mostrando a importância de cada um deles durante o processo de empreender.</p>
+                        <p class="text-2 text-regular" style="border-bottom: 1px dotted white;">13 de novembro, às 13h, em São José/SC</p>
+                        <p class="text-8 text-bold text-secondary font-2 mt-1 title">Conexão Beauty</p>
+                        <p class="text-2 mt-3">Um evento que une profissionais das áreas da Saúde Integrativa, Beleza e Estética. Mostra a importância de cada setor e conhecimento, além de técnicas e práticas, durante o processo de empreender.</p>
                         <p class="text-1 mt-1">Desenvolva seu Empreendedorismo, Posicionamento Profissional, Inteligência Emocional, Marketing Digital, e mais!</p>
                         <a href="#payment">
                             <button class="btn btn-secondary mt-3">
@@ -132,7 +140,7 @@
                 </div>
                 <div class="" data-aos="fade-left">
                     <div class="div-img-thinking ml-4">
-                        <img src="assets/images/logo-oficial.png" alt="Logo">
+                        <img src="assets/images/logo-oficial-2.png" alt="Logo">
                     </div>
                 </div>
             </div>
@@ -141,42 +149,34 @@
         <section class="section-3">
 
             <div class="container-2">
-                <p class="text-4">O que você irá aprender no conexão empreendedora?</p>
+                <p class="text-4">O que você irá aprender no Conexão Beauty?</p>
             </div>
 
-            <div class="container-2 mt-4" data-aos="fade-up">
+            <div class="container-2 mt-4" data-aos="fade-up" style="max-width:1110px">
                 <div class="div-cards">
                     <div class="card">
-                        <i class="fa-solid fa-brain mr-2 text-3 text-primary"></i>
+                        <i class="fa-solid fa-key mr-2 text-3 text-primary"></i>
+                        <p class="text-1 text-left"> Quais os segredos para se tornar um empreendedor de sucesso.</p>
+                    </div>
+                    <div class="card">
+                        <i class="fa-solid fa-note-sticky mr-2 text-3 text-primary"></i>
+                        <p class="text-1 text-left">Técnicas e Práticas não são o suficiente.</p>
+                    </div>
+                    <div class="card">
+                        <i class="fa-solid fa-lock-open mr-2 text-3 text-primary"></i>
                         <p class="text-1 text-left">Bloqueios e crenças que impedem os empreendedores de crescer e fazer sucesso.</p>
                     </div>
                     <div class="card">
-                        <i class="fa-solid fa-users mr-2 text-3 text-primary"></i>
-                        <p class="text-1 text-left">Fortalecer a rede de relacionamentos.</p>
+                        <i class="fa-solid fa-brain mr-2 text-3 text-primary"></i>
+                        <p class="text-1 text-left">Como o Autoconhecimento é importante ao empreender.</p>
                     </div>
                     <div class="card">
-                        <i class="fa-solid fa-image-portrait mr-2 text-3 text-primary"></i>
-                        <p class="text-1 text-left">Como a imagem pessoal pode influenciar o seu posicionamento profissional.</p>
+                        <i class="fa-solid fa-list-check mr-2 text-3 text-primary"></i>
+                        <p class="text-1 text-left">Empreendedorismo e Gestão, porque são necessários .</p>
                     </div>
                     <div class="card">
                         <i class="fa-solid fa-trophy mr-2 text-3 text-primary"></i>
-                        <p class="text-1 text-left">Quais os segredos para se tornar um empreendedor de sucesso.</p>
-                    </div>
-                    <div class="card">
-                        <i class="fa-solid fa-person-rays mr-2 text-3 text-primary"></i>
-                        <p class="text-1 text-left">Desenvolver a Inteligencia Emocial.</p>
-                    </div>
-                    <div class="card">
-                        <i class="fa-solid fa-star mr-2 text-3 text-primary"></i>
-                        <p class="text-1 text-left">Marketing Digital e Instagram.</p>
-                    </div>
-                    <div class="card">
-                        <i class="fa-solid fa-rectangle-ad mr-2 text-3 text-primary"></i>
-                        <p class="text-1 text-left">Como fazer conexões poderosas.</p>
-                    </div>
-                    <div class="card">
-                        <i class="fa-solid fa-handshake-simple mr-2 text-3 text-primary"></i>
-                        <p class="text-1 text-left">Mentalidade empreendedora.</p>
+                        <p class="text-1 text-left">Construa uma empresa de Sucesso.</p>
                     </div>
                 </div>
             </div>
@@ -191,186 +191,6 @@
 
             <div class="container-2 mt-3">
                 <div class="div-cards-4">
-
-                    <div class="card-4">
-                        <img src="assets/media/andriele.png" alt="Andriele Walter">
-                        <div class="hover-description text-grey">
-                            <div class="text-1">
-                                <p>
-                                    Andriele Walter,
-                                </p>
-                                <p class="mt-1">
-                                    descobriu na área de estética e beleza um propósito maior. Fundou a You Glow em 2019, onde possui You Glow Clinica, You Glow Instituto e You Glow Dress.
-                                </p>
-                                <p class="mt-1">
-                                    Cosmetóloga e Esteticista, cursando atualmente Biomedicina. Atua na área de Micropigmentação há mais de 14 anos e possui mais de 50 Certificações Internacionais e Nacionais.
-                                </p>
-                            </div>
-                            <div class="div-social">
-                                <a href="https://www.instagram.com/andrielewalter/" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>andrielewalter</a>
-                            </div>
-                        </div>
-                        <div class="border-name text-white">
-                            <span class="text-2 text-bold">Andriele Walter</span>
-                            <span>CEO You Glow</span>
-                        </div>
-                    </div>
-
-                    <div class="card-4">
-                        <img src="assets/media/jessica_rover.png" alt="Jessica Rover">
-                        <div class="hover-description text-grey">
-                            <div class="text-1">
-                                <p>
-                                    Jessica Rover,
-                                </p>
-                                <p class="mt-1">
-                                    Mentora de profissionais da área da beleza, graduada em Cosmetologia e Estética, 10 anos de atendimento ao cliente. </p>
-                                <p class="mt-1">
-                                    Ensina mulheres a se tornarem poderosas na sua postura profissional e a oferecer um atendimento padrão 5 estrelas para suas clientes. </p>
-                            </div>
-                            <div class="div-social">
-                                <a href="https://www.instagram.com/jessicaroverr/?hl=pt-br" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>jessicaroverr</a>
-                            </div>
-                        </div>
-                        <div class="border-name text-white">
-                            <span class="text-2 text-bold">Jessica Rover</span>
-                            <span>Mentora de profissionais da área da beleza</span>
-                        </div>
-                    </div>
-
-                    <div class="card-4">
-                        <img src="assets/media/morgana.png" alt="Morgana Wagner">
-                        <div class="hover-description text-grey">
-                            <div class="text-1">
-                                <p>
-                                    Morgana Wagner,
-                                </p>
-                                <p class="mt-1">
-                                    formada em Administração, MBA em Finanças Empresariais, Gestão de Pessoas, tem experiência de 15 anos na Extratos da Terra, na qual hoje é diretora de Distribuição da Grande Florianópolis. Uma de suas grandes paixões é levar a beleza que faz bem às pessoas que a cercam, clientes e parceiros, e vai te contar os segredos e bastidores de como tudo isso é possível.
-                                </p>
-                            </div>
-                            <div class="div-social">
-                                <a href="https://instagram.com/morganaws?igshid=YmMyMTA2M2Y=" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>morganaws</a>
-                            </div>
-                        </div>
-                        <div class="border-name text-white">
-                            <span class="text-2 text-bold">Morgana Wagner</span>
-                            <span>Diretora de distribuição da Extratos da Terra</span>
-                        </div>
-                    </div>
-
-                    <div class="card-4">
-                        <img src="assets/media/josi.png" alt="Josi Konkol">
-                        <div class="hover-description text-grey">
-                            <div class="text-1">
-                                <p class="">
-                                    Josi Konkol,
-                                </p>
-                                <p class="mt-1">
-                                    formada em Publicidade e Propaganda e Pós Graduada em Marketing e Moda. É Infoprodutora e empresária digital.
-                                    Mentora mulheres e treina líderes de negócios através do seu método DNA DA VENDA DIGITAL. Vai te mostrar como o MKT Digital pode transformar o seu negócio.
-                                </p>
-                            </div>
-                            <div class="div-social">
-                                <a href="https://www.instagram.com/josikonkol/?hl=pt-br" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>josikonkol</a>
-                            </div>
-                        </div>
-                        <div class="border-name text-white">
-                            <span class="text-2 text-bold">Josi Konkol</span>
-                            <span>Empresária digital e Infoprodutora</span>
-                        </div>
-                    </div>
-
-                    <div class="card-4">
-                        <img src="assets/media/tiago.png" alt="Tiago Grando">
-                        <div class="hover-description text-grey">
-                            <div class="text-1">
-                                <p>
-                                    Tiago Grando,
-                                </p>
-                                <p class="mt-1">
-                                    estudou profundamente a mentalidade de empreendedores de sucesso, e desde então ajuda diversos empreendedores a acelerarem o crescimento dos seus negócios e a se tornarem mais preparados para o sucesso.
-                                </p>
-                                <p class="mt-1">
-                                    Treinou mais de 2.000 pessoas que obtiveram resultados incríveis nesse processo. Após tanto estudo e prática, percebeu o que havia de comum em tantos cases de sucesso e com esse conhecimento criou a Academia da Mentalidade Empreendedora.
-                                </p>
-                            </div>
-                            <div class="div-social">
-                                <a href="https://www.instagram.com/otiagogrando/" class="text-grey text-2" target="_blanck"><i class="fa-brands fa-instagram mr-1"></i>otiagogrando</a>
-                            </div>
-                        </div>
-                        <div class="border-name text-white">
-                            <span class="text-2 text-bold">Tiago Grando</span>
-                            <span>CEO da Academia da Mentalidade Empreendedora</span>
-                        </div>
-                    </div>
-
-                    <div class="card-4">
-                        <img src="assets/media/antonia.png" alt="Antônia Helena">
-                        <div class="hover-description text-grey">
-                            <div class="text-1">
-                                <p class="">
-                                    Antônia Charão,
-                                </p>
-                                <p class="mt-1">
-                                    networker Marketing, Especialista em Networking.
-                                    Forma e fortalece rede de relacionamentos por propósito e resultados, criando conexões através de oportunidades.
-                                </p>
-                            </div>
-                            <div class="div-social">
-                                <a href="https://www.instagram.com/antoniahelenalcharao/" class="text-grey" target="_blank" style="font-size: 1.2rem"><i class="fa-brands fa-instagram mr-1"></i>antoniahelenalcharao</a>
-                            </div>
-                        </div>
-                        <div class="border-name text-white">
-                            <span class="text-2 text-bold">Antonia Charão</span>
-                            <span>Networker Marketing</span>
-                        </div>
-                    </div>
-
-                    <div class="card-4">
-                        <img src="assets/media/maria.png" alt="Maria Eduarda">
-                        <div class="hover-description text-grey">
-                            <div class="text-1">
-                                <p class="">
-                                    Maria Eduarda,
-                                </p>
-                                <p class="mt-1">
-                                    empreendedora, Esposa, Mãe, Consultora de Imagem Pessoal.
-                                    Ajuda mulheres a externalizarem sua essência através da sua imagem, com o poder do autoconhecimento, elevando sua autoestima e autoconfiança.
-                                </p>
-                            </div>
-                            <div class="div-social">
-                                <a href="https://www.instagram.com/mariaeduardaconsultoria_/" class="text-grey" target="_blank" style="font-size: 1.1rem"><i class="fa-brands fa-instagram mr-1"></i>mariaeduardaconsultoria_</a>
-                            </div>
-                        </div>
-                        <div class="border-name text-white">
-                            <span class="text-2 text-bold">Maria Eduarda</span>
-                            <span>Empreendedora e Consultora de Imagem Pessoal</span>
-                        </div>
-                    </div>
-
-
-                    <div class="card-4">
-                        <img src="assets/media/mario.png" alt="Mário Gonçalves">
-                        <div class="hover-description text-grey">
-                            <div class="text-1">
-                                <p class="">
-                                    Mário Gonçalves,
-                                </p>
-                                <p class="mt-1">
-                                    psicoterapeuta. Graduado em Psicologia. Pós Graduado em Hipnose Clínica e Especialista em Transtornos de Ansiedade. Estuda o comportamento humano mais de 30 anos.
-                                    Ensinará como usar as emoções de forma mais inteligente, trazendo posicionamentos para prosperar em sua vida e gerir melhor seus negócios, com aprendizado e evolução.
-                                </p>
-                            </div>
-                            <div class="div-social">
-                                <a href="https://www.instagram.com/mariopsicoo/?hl=pt-br" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>mariopsicoo</a>
-                            </div>
-                        </div>
-                        <div class="border-name text-white">
-                            <span class="text-2 text-bold">Mário Gonçalves</span>
-                            <span>Bacharel em Psicologia e Pós Graduado em Hipnose clínica</span>
-                        </div>
-                    </div>
 
                     <div class="card-4">
                         <img src="assets/media/jessica.png" alt="Jéssica Capistrano">
@@ -416,6 +236,39 @@
                         </div>
                     </div>
 
+                    <div class="card-4">
+                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p>
+                                </p>
+                            </div>
+                            <div class="div-social" style="visibility:hidden">
+                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold"></span>
+                            <span></span>
+                        </div>
+                    </div>
+
+                    <div class="card-4">
+                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p>
+                                </p>
+                            </div>
+                            <div class="div-social" style="visibility:hidden">
+                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold"></span>
+                            <span></span>
+                        </div>
+                    </div>
 
                 </div>
             </div>
@@ -423,50 +276,97 @@
         </section>
 
         <section class="section-3">
-
             <div class="container-2">
-                <p class="text-4 text-bold">Para quem é a conexão empreendedora?</p>
+                <p class="text-4 text-bold">Para quem é a Conexão Beauty?</p>
             </div>
-
+            <div class="container-2 d-flex justify-content-center">
+                <p class="text-1 mt-2" style="max-width: 600px;">Para empreendedores (as) das áreas da Saúde Integrativa, Beleza e Estética, que querem se desenvolver, adquirir mais conhecimento, sair da inércia, ter uma vida mais próspera, se inovar, se motivar, virar a chave...</p>
+            </div>
             <div class="container-2 mt-4">
-                <div class="div-cards-3">
-                    <div class="card-3">
-                        <div>
-                            <div>
-                                <img src="https://images.pexels.com/photos/4855373/pexels-photo-4855373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-                            </div>
-                        </div>
-                        <div>
-                            <p class="text-2 text-bold">Para pessoas que querem se motivar e virar a chave.</p>
-                        </div>
+                <img src="assets/images/media-1.webp" alt="Ilustração para quem é o conexão beauty" style="max-width:100%">
+            </div>
+            <div class="container-2 d-flex justify-content-center">
+                <p class="text-3 text-bold mt-4 text-tertiary">A Conexão Beauty é pra VOCÊ!</p>
+            </div>
+        </section>
+
+        <section class="section-2">
+            <div class="container-2">
+                <p class="text-4 text-bold">Anteriormente na Conexão...</p>
+            </div>
+            <div class="container-2 d-flex justify-content-center">
+                <p class="text-1">Conexão Empreendedora - 30/07/22</p>
+            </div>
+            <div class="container-2 mt-4">
+                <div class="glide" id="glide">
+                    <div class="glide__track" data-glide-el="track">
+                        <ul class="glide__slides">
+                            <li class="glide__slide">
+                                <article class="image-galery">
+                                    <img src="assets/media/evento/1.webp" alt="">
+                                    <img src="assets/media/evento/2.webp" alt="" class="mt-3">
+                                </article>
+                            </li>
+                            <li class="glide__slide">
+                                <article class="image-galery">
+                                    <img src="assets/media/evento/3.webp" alt="">
+                                    <img src="assets/media/evento/4.webp" alt="" class="mt-3">
+                                </article>
+                            </li>
+                            <li class="glide__slide">
+                                <article class="image-galery">
+                                    <img src="assets/media/evento/5.webp" alt="">
+                                    <img src="assets/media/evento/6.webp" alt="" class="mt-3">
+                                </article>
+                            </li>
+                            <li class="glide__slide">
+                                <article class="image-galery">
+                                    <img src="assets/media/evento/7.webp" alt="">
+                                    <img src="assets/media/evento/8.webp" alt="" class="mt-3">
+                                </article>
+                            </li>
+                            <li class="glide__slide">
+                                <article class="image-galery">
+                                    <img src="assets/media/evento/9.webp" alt="">
+                                    <img src="assets/media/evento/10.webp" alt="" class="mt-3">
+                                </article>
+                            </li>
+                            <li class="glide__slide">
+                                <article class="image-galery">
+                                    <img src="assets/media/evento/11.webp" alt="">
+                                    <img src="assets/media/evento/12.webp" alt="" class="mt-3">
+                                </article>
+                            </li>
+                            <li class="glide__slide">
+                                <article class="image-galery">
+                                    <img src="assets/media/evento/13.webp" alt="">
+                                    <img src="assets/media/evento/14.webp" alt="" class="mt-3">
+                                </article>
+                            </li>
+                            <li class="glide__slide">
+                                <article class="image-galery">
+                                    <img src="assets/media/evento/15.webp" alt="">
+                                    <img src="assets/media/evento/16.webp" alt="" class="mt-3">
+                                </article>
+                            </li>
+                            <li class="glide__slide">
+                                <article class="image-galery">
+                                    <img src="assets/media/evento/17.webp" alt="">
+                                    <img src="assets/media/evento/18.webp" alt="" class="mt-3">
+                                </article>
+                            </li>
+                        </ul>
                     </div>
-                    <div class="card-3">
-                        <div>
-                            <img src="https://images.pexels.com/photos/7413909/pexels-photo-7413909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-                        </div>
-                        <div>
-                            <p class="text-2 text-bold">Para quem quer empreender e se inovar.</p>
-                        </div>
-                    </div>
-                    <div class="card-3">
-                        <div>
-                            <img src="https://images.pexels.com/photos/2574616/pexels-photo-2574616.jpeg?cs=srgb&dl=pexels-oladimeji-ajegbile-2574616.jpg&fm=jpg" alt="">
-                        </div>
-                        <div>
-                            <p class="text-2 text-bold">Para empreendedores que querem se desenvolver ainda mais.</p>
-                        </div>
-                    </div>
-                    <div class="card-3">
-                        <div>
-                            <img src="https://images.pexels.com/photos/7641824/pexels-photo-7641824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-                        </div>
-                        <div>
-                            <p class="text-2 text-bold">Para empreendedores que desejam sair da inércia e ter uma vida mais próspera.</p>
-                        </div>
+                    <div data-glide-el="controls" class="controls">
+                        <button data-glide-dir="<">
+                            <i class="fa-solid fa-chevron-left text-3 text-grey"></i>
+                        </button>
+                        <button data-glide-dir=">">
+                            <i class="fa-solid fa-chevron-right text-3"></i>
+                        </button>
                     </div>
                 </div>
             </div>
-
         </section>
 
         <section class="section-2" style="padding: 0;" id="mentoras">
@@ -474,9 +374,9 @@
                 <div class="text-left" style="padding: 30px 20px;">
                     <p class="text-4 text-bold">Unidas por um Propósito: Conectar e preparar empreendedores para conquistar resultados e desenvolver suas habilidades.</p>
                     <p class="text-2 mt-1">Focadas no mesmo propósito, passando pelas mesmas dores e dificuldades e, procurando a mesma solução para ajudar ainda mais pessoas, Analice Ramlow e Jéssica Capistrano, vem se unindo e especializando cada vez mais para lhe proporcionar maior desenvolvimento como empreendedor e elevar o nível do seu negócio.</p>
-                    <p class="text-2 text-bold mt-1">Prepare-se para virar a chave e se transformar no Conexão Empreendedora, uma experiência unica que você merece vivenciar.</p>
+                    <p class="text-2 text-bold mt-1">Prepare-se para virar a chave e se transformar no Conexão Beauty, uma experiência única que você merece vivenciar.</p>
                     <div class="mt-2" style="text-align:center;border-top: 1px dashed grey;padding: 10px;">
-                        <p class="text-2 text-bold">Te esperamos no Conexão Empreendedora.</p>
+                        <p class="text-2 text-bold">Te esperamos no Conexão Beauty.</p>
                     </div>
                 </div>
                 <div class="">
@@ -494,25 +394,25 @@
             <div class="container-2 d-flex justify-content-center flex-wrap">
                 <div class="card-payment">
                     <p class="text-2">
-                        <u>Pagamento via Cartão de Crédito</u>
+                        <u>Pagamento via Cartão de Crédito ou Pix</u>
                     </p>
-                    <p class="text-2 mt-3">2x de <span class="text-4 text-bold">R$ 98,50</span></p>
-                    <p class="text-1">ou R$ 197,00 à vista</p>
-                    <a href="https://www.asaas.com/c/312002267176" target="_blank">
+                    <p class="text-2 mt-3" style="display: none;">2x de <span class="text-4 text-bold">R$ 98,50</span></p>
+                    <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 147,00</span> à vista</p>
+                    <a href="https://www.asaas.com/c/218704009735" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">3° LOTE</span>
+                        <span class="text-0 text-regular">1° LOTE</span>
                     </div>
                 </div>
-                <div class="card-payment">
+                <div class="card-payment" style="display: none;">
                     <p class="text-2">
                         <u>Pagamento via Pix</u>
                     </p>
-                    <p class="text-2 mt-3">apenas <span class="text-4 text-bold">R$ 197,00</span></p>
-                    <a href="https://nubank.com.br/cobranca/qcqBLq5zMP11248i" target="_blank">
+                    <p class="text-2 mt-3">apenas <span class="text-4 text-bold">R$ 000,00</span></p>
+                    <a href="#" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
@@ -527,9 +427,9 @@
         <section class="section-2" id="locale">
             <div class="container-2 d-flex align-items-center">
                 <div class="text-left">
-                    <p class="text-5 text-bold"> Aonde será a Conexão Empreendedora</p>
+                    <p class="text-5 text-bold"> Aonde será a Conexão Beauty</p>
                     <p class="text-2 text-bold mt-3">Quando?</p>
-                    <p class="text-2">Sábado, 30 de julho, das 13h às 20h</p>
+                    <p class="text-2">Domingo, 13 de novembro, das 13h às 20h</p>
                     <p class="text-2 text-bold mt-3">Aonde?</p>
                     <p class="text-2">R. Elizeu di Bernardi, 34 - Campinas, São José - SC, 88101-050</p>
                     <p class="text-2">K Platz Corporate - Auditório</p>
@@ -616,6 +516,8 @@
         <img src="assets/images/loader.gif" alt="">
     </div>
 
+    <script type="text/javascript" src="assets/glide-3.4.1/dist/glide.min.js"></script>
+    <script type="text/javascript" src="assets/js/glide.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.8/jquery.mask.min.js" integrity="sha512-hAJgR+pK6+s492clbGlnrRnt2J1CJK6kZ82FZy08tm6XG2Xl/ex9oVZLE6Krz+W+Iv4Gsr8U2mGMdh0ckRH61Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="assets/js/index.js"></script>
