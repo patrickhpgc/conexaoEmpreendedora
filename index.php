@@ -369,7 +369,7 @@
             </div>
         </section>
 
-        <section class="section-2" id="mentoras" >
+        <section class="section-2" id="mentoras" style="padding: 0;background-image: url('assets/media/background-2.webp');">
             <div class="container-2 d-flex align-items-center">
                 <div class="text-left" style="padding: 30px 20px;">
                     <p class="text-4 text-bold">Unidas por um Propósito: Conectar e preparar empreendedores para conquistar resultados e desenvolver suas habilidades.</p>
