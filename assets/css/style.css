@@ -230,13 +230,26 @@ div > .div-img-thinking {
     max-width       : 210px;
     min-width       : 210px;
     margin: 8px 0;
-    background-color: var(--tertiary);
+    background-color: var(--primary);
     color           : var(--white);
     border-radius   : 8px;
     transition      : 0.5s;
     box-shadow      : 1px 3px 4px rgba(0, 0, 0, 0.5);
     overflow        : hidden;
     padding         : 20px;
+}
+
+.div-card-3 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card-3 {
+    width: 80px;
+    height: 80px;
+    background-color: grey;
+    margin: 16px;
 }
 
 .div-cards-4 {

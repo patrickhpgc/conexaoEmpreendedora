@@ -60,11 +60,11 @@
                         <a href="#speakers" class="text-2 text-white button hvr-underline-from-left">
                             <li>Palestrantes</li>
                         </a>
+                        <a href="#sponsors" class="text-2 text-white button hvr-underline-from-left">
+                            <li>Patrocinadores</li>
+                        </a>
                         <a href="#info" class="text-2 text-white button hvr-underline-from-left">
                             <li>Principais dúvidas</li>
-                        </a>
-                        <a href="#locale" class="text-2 text-white button hvr-underline-from-left">
-                            <li>Como chegar</li>
                         </a>
                         <a href="#payment" style="display:flex;align-items:center;" class="link-pass ml-2">
                             <button class="btn btn-secondary">
@@ -394,9 +394,23 @@
             <div class="container-2 d-flex justify-content-center flex-wrap">
                 <div class="card-payment">
                     <p class="text-2">
-                        <u>Pagamento via Cartão de Crédito ou Pix</u>
+                        <u>Pagamento via Pix</u>
                     </p>
-                    <p class="text-2 mt-3" style="display: none;">2x de <span class="text-4 text-bold">R$ 98,50</span></p>
+                    <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 147,00</span> à vista</p>
+                    <a href="https://www.asaas.com/c/738899808740" target="_blank">
+                        <button class="btn btn-secondary mt-3">
+                            <span class="text-2 text-bold">QUERO PARTICIPAR</span>
+                        </button>
+                    </a>
+                    <div class="div-lote">
+                        <span class="text-0 text-regular">1° LOTE</span>
+                    </div>
+                </div>
+                <div class="card-payment">
+                    <p class="text-2">
+                        <u>Pagamento via Cartão de Crédito</u>
+                    </p>
+                    <p class="text-1 mt-3" style="display: none;">2x de <span class="text-4 text-bold">R$ 73,50</span></p>
                     <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 147,00</span> à vista</p>
                     <a href="https://www.asaas.com/c/218704009735" target="_blank">
                         <button class="btn btn-secondary mt-3">
@@ -407,27 +421,43 @@
                         <span class="text-0 text-regular">1° LOTE</span>
                     </div>
                 </div>
-                <div class="card-payment" style="display: none;">
-                    <p class="text-2">
-                        <u>Pagamento via Pix</u>
-                    </p>
-                    <p class="text-2 mt-3">apenas <span class="text-4 text-bold">R$ 000,00</span></p>
-                    <a href="#" target="_blank">
-                        <button class="btn btn-secondary mt-3">
-                            <span class="text-2 text-bold">QUERO PARTICIPAR</span>
-                        </button>
+            </div>
+        </section>
+
+        <section class="section-1" id="sponsors" style="padding: 0;background-image: url('assets/media/background-2.webp');">
+            <div class="container-2 mt-4 mb-4">
+                <p class="text-5 text-bold text-primary">Seja um Apoiador e Parceiro da Conexão Beauty.</p>
+                <p class="text-2 text-bold mt-3 text-grey">O Elenco que Movimenta a Conexão!</p>
+                <div class="div-card-3 mt-3" style="display:none">
+                    <a href="#">
+                        <div class="card-3">
+                        </div>
                     </a>
-                    <div class="div-lote">
-                        <span class="text-0 text-regular">3° LOTE</span>
-                    </div>
+                    <a href="#">
+                        <div class="card-3">
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="card-3">
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="card-3">
+                        </div>
+                    </a>
                 </div>
+                <a href="https://wa.me/554896956673" target="_blank">
+                    <button class="btn btn-primary mt-2">
+                        <span class="text-2 text-bold">SEJA UM PATROCINADOR</span>
+                    </button>
+                </a>
             </div>
         </section>
 
         <section class="section-2" id="locale">
             <div class="container-2 d-flex align-items-center">
                 <div class="text-left">
-                    <p class="text-5 text-bold"> Aonde será a Conexão Beauty</p>
+                    <p class="text-5 text-bold">Aonde será a Conexão Beauty</p>
                     <p class="text-2 text-bold mt-3">Quando?</p>
                     <p class="text-2">Domingo, 13 de novembro, das 13h às 20h</p>
                     <p class="text-2 text-bold mt-3">Aonde?</p>
