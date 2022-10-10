@@ -497,6 +497,7 @@
                 <i class="fa-brands fa-instagram text-3"></i>
             </a>
             <p class="text-2 mb-2">Visite nosso instagram</p>
+            <p class="text-1 text-white mb-2">Desenvolvido por <a href="https://webviewtech.vercel.app/" target="_blank" style="text-decoration: underline;color:white">webviewtech</a></p>
             <p>2022 - Conexão Beauty - Todos os direitos reservados.</p>
         </div>
     </footer>
