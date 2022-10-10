@@ -230,7 +230,7 @@ div > .div-img-thinking {
     max-width       : 210px;
     min-width       : 210px;
     margin: 8px 0;
-    background-color: var(--tertiary);
+    background-color: var(--primary);
     color           : var(--white);
     border-radius   : 8px;
     transition      : 0.5s;
@@ -242,12 +242,13 @@ div > .div-img-thinking {
 .div-card-3 {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .card-3 {
-    width: 200px;
-    height: 200px;
-    background-color: red;
+    width: 80px;
+    height: 80px;
+    background-color: grey;
     margin: 16px;
 }
 
