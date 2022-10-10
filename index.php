@@ -374,7 +374,7 @@
                 <div class="text-left" style="padding: 30px 20px;">
                     <p class="text-4 text-bold">Unidas por um Propósito: Conectar e preparar empreendedores para conquistar resultados e desenvolver suas habilidades.</p>
                     <p class="text-2 mt-1">Focadas no mesmo propósito, passando pelas mesmas dores e dificuldades e, procurando a mesma solução para ajudar ainda mais pessoas, Analice Ramlow e Jéssica Capistrano, vem se unindo e especializando cada vez mais para lhe proporcionar maior desenvolvimento como empreendedor e elevar o nível do seu negócio.</p>
-                    <p class="text-2 text-bold mt-1">Prepare-se para virar a chave e se transformar no Conexão Beauty, uma experiência única que você merece vivenciar.</p>
+                    <p class="text-2 text-bold mt-1">Prepare-se para virar a chave e se transformar no Conexão Beauty, uma experiência unica que você merece vivenciar.</p>
                     <div class="mt-2" style="text-align:center;border-top: 1px dashed grey;padding: 10px;">
                         <p class="text-2 text-bold">Te esperamos no Conexão Beauty.</p>
                     </div>
