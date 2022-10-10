@@ -239,6 +239,18 @@ div > .div-img-thinking {
     padding         : 20px;
 }
 
+.div-card-3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-3 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 16px;
+}
+
 .div-cards-4 {
     display        : flex;
     flex-wrap      : wrap;
