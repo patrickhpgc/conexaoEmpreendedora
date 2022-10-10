@@ -6,6 +6,7 @@
 
 :root {
     --primary     : #F58696;
+    --primary-2     : #D91A60;
     --secondary   : #79D6B7;
     --tertiary    : #F0AFAB;
     --green       : #CCD6BD;
@@ -81,6 +82,10 @@ body {
 /* Text color */
 .text-primary {
     color: var(--primary);
+}
+
+.text-primary-2 {
+    color: var(--primary-2);
 }
 
 .text-secondary {

@@ -221,7 +221,7 @@
                                     Analice Ramlow,
                                 </p>
                                 <p class="mt-1">
-                                    mentora de Negócios, Educadora Financeira, Cosmetóloga e Esteticista, Empreendedora desde 2015.
+                                    Mentora de Negócios, Educadora Financeira, Cosmetóloga e Esteticista, Empreendedora desde 2015.
                                     Ensina e auxilia empreendedores a alavancar o crescimento da sua empresa, ter mais tempo para cuidar da gestão e viver, realizar sonhos e metas.
                                     Ensinar e mostra para seus mentorados sobre o brilho interior de cada um, sua essência e sua capacidade. Incentivando-os a crescerem e Brilharem ainda mais.
                                 </p>
@@ -232,7 +232,7 @@
                         </div>
                         <div class="border-name text-white">
                             <span class="text-2 text-bold">Analice Ramlow</span>
-                            <span>Mentora de negócios e Educadora Financeira</span>
+                            <span>Mentora de Negócios e Educadora Financeira</span>
                         </div>
                     </div>
 
@@ -275,18 +275,18 @@
 
         </section>
 
-        <section class="section-3">
+        <section class="section-4">
             <div class="container-2">
-                <p class="text-4 text-bold">Para quem é a Conexão Beauty?</p>
+                <p class="text-4 text-bold text-primary-2">Para quem é a Conexão Beauty?</p>
             </div>
             <div class="container-2 d-flex justify-content-center">
-                <p class="text-1 mt-2" style="max-width: 600px;">Para empreendedores (as) das áreas da Saúde Integrativa, Beleza e Estética, que querem se desenvolver, adquirir mais conhecimento, sair da inércia, ter uma vida mais próspera, se inovar, se motivar, virar a chave...</p>
+                <p class="text-1 mt-2 text-grey" style="max-width: 800px;">Para empreendedores (as) das áreas da Saúde Integrativa, Beleza e Estética, que querem se desenvolver, adquirir mais conhecimento, sair da inércia, ter uma vida mais próspera, se inovar, se motivar, virar a chave...</p>
             </div>
             <div class="container-2 mt-4">
                 <img src="assets/images/media-1.webp" alt="Ilustração para quem é o conexão beauty" style="max-width:100%">
             </div>
             <div class="container-2 d-flex justify-content-center">
-                <p class="text-3 text-bold mt-4 text-tertiary">A Conexão Beauty é pra VOCÊ!</p>
+                <p class="text-3 text-bold mt-4 text-primary-2">A Conexão Beauty é pra VOCÊ!</p>
             </div>
         </section>
 
@@ -369,7 +369,7 @@
             </div>
         </section>
 
-        <section class="section-2" style="padding: 0;" id="mentoras">
+        <section class="section-2" id="mentoras" style="padding: 0;background-image: url('assets/media/background-2.webp');">
             <div class="container-2 d-flex align-items-center">
                 <div class="text-left" style="padding: 30px 20px;">
                     <p class="text-4 text-bold">Unidas por um Propósito: Conectar e preparar empreendedores para conquistar resultados e desenvolver suas habilidades.</p>
