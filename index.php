@@ -9,7 +9,7 @@
     <meta property="og:title" content="Conexão Beauty" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://conexaobeauty.analiceramlow.com/" />
-    <meta property="og:image" content="https://uploaddeimagens.com.br/imagens/sCAAG80" />
+    <meta property="og:image" content="https://uploaddeimagens.com.br/images/004/061/098/full/Logo_Conexao_beauty_fundo_branco.png?1665764822" />
 
     <meta name="description" content="Um evento que une profissionais das áreas da Saúde Integrativa, Beleza e Estética. Mostra a importância de cada setor e conhecimento, além de técnicas e práticas, durante o processo de empreender.">
 
