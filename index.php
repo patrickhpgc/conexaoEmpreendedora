@@ -103,7 +103,7 @@
 
         <section class="section-2" id="about">
             <div class="container-2 d-flex align-items-center">
-                <div class="text-left" data-aos="fade-right">
+                <div class="div-conect text-left" data-aos="fade-right">
                     <p class="text-8 text-bold">Desenvolva Conexões!</p>
                     <p class="text-2 mt-2">
                         Um evento recheado de atrações, amor, união, para quem quer se desenvolver como pessoa e empreendedor.
@@ -152,7 +152,7 @@
                 <p class="text-4">O que você irá aprender no Conexão Beauty?</p>
             </div>
 
-            <div class="container-2 mt-4" data-aos="fade-up" style="max-width:1110px">
+            <div class="container-2 mt-4" data-aos="fade-up" style="width:1110px;max-width:100%">
                 <div class="div-cards">
                     <div class="card">
                         <i class="fa-solid fa-key mr-2 text-3 text-primary"></i>
@@ -426,7 +426,7 @@
 
         <section class="section-1" id="sponsors" style="padding: 0;background-image: url('assets/media/background-2.webp');">
             <div class="container-2 mt-4 mb-4">
-                <p class="text-5 text-bold text-primary">Seja um Apoiador e Parceiro da Conexão Beauty.</p>
+                <p class="text-5 text-bold text-primary" style="padding: 0 16px 0 16px;">Seja um Apoiador e Parceiro da Conexão Beauty.</p>
                 <p class="text-2 text-bold mt-3 text-grey">O Elenco que Movimenta a Conexão!</p>
                 <div class="div-card-3 mt-3" style="display:none">
                     <a href="#">

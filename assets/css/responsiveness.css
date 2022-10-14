@@ -74,6 +74,13 @@
         font-size: 3rem;
     }
 
+    .div-cards-2 {
+        align-items: center;
+    }
+
+    .div-conect {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 450px) {
@@ -107,6 +114,7 @@
     .section-3 {
         padding: 20px 16px;
     }
+
 }
 
 @media screen and (max-width: 350px) {}
