@@ -88,8 +88,8 @@
                         <p class="text-8 text-bold text-secondary font-2 mt-1 title">Conexão Beauty</p>
                         <p class="text-2 mt-3">Um evento que une profissionais das áreas da Saúde Integrativa, Beleza e Estética. Mostra a importância de cada setor e conhecimento, além de técnicas e práticas, durante o processo de empreender.</p>
                         <p class="text-1 mt-1">Desenvolva seu Empreendedorismo, Posicionamento Profissional, Inteligência Emocional, Marketing Digital, e mais!</p>
-                        <a href="#payment">
-                            <button class="btn btn-secondary mt-3">
+                        <a href="#payment" class="mt-3">
+                            <button class="btn btn-secondary">
                                 <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                             </button>
                         </a>
