@@ -47,7 +47,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 
-    <title>Conexão empreendedora</title>
+    <title>Conexão Beauty</title>
 </head>
 
 <body>
@@ -84,7 +84,7 @@
             <div class="div-banner">
                 <div class="container-2">
                     <div class="text-left">
-                        <p class="text-2 text-regular" style="border-bottom: 1px dotted white;">13 de novembro, às 13h, em São José/SC</p>
+                        <p class="text-2 text-regular" style="border-bottom: 1px dotted white;">13 de novembro, às 12h, em São José/SC</p>
                         <p class="text-8 text-bold text-secondary font-2 mt-1 title">Conexão Beauty</p>
                         <p class="text-2 mt-3">Um evento que une profissionais das áreas da Saúde Integrativa, Beleza e Estética. Mostra a importância de cada setor e conhecimento, além de técnicas e práticas, durante o processo de empreender.</p>
                         <p class="text-1 mt-1">Desenvolva seu Empreendedorismo, Posicionamento Profissional, Inteligência Emocional, Marketing Digital, e mais!</p>
@@ -466,7 +466,7 @@
                 <div class="text-left">
                     <p class="text-5 text-bold">Aonde será a Conexão Beauty</p>
                     <p class="text-2 text-bold mt-3">Quando?</p>
-                    <p class="text-2">Domingo, 13 de novembro, das 13h às 20h</p>
+                    <p class="text-2">Domingo, 13 de novembro, das 12h às 20h</p>
                     <p class="text-2 text-bold mt-3">Aonde?</p>
                     <p class="text-2">R. Elizeu di Bernardi, 34 - Campinas, São José - SC, 88101-050</p>
                     <p class="text-2">K Platz Corporate - Auditório</p>
