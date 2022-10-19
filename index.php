@@ -374,6 +374,122 @@
                     </div>
                 </div>
             </div>
+            <div class="container-2 mt-3">
+            <div class="container-2">
+                <p class="text-3 text-bold">O que os participantes acharam da Conexão...</p>
+            </div>
+                <div class="div-card-comment">
+                    <div class="card-comment text-left">
+                        <div>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                        </div>
+                        <p class="mt-1">
+                            <strong>Superou muuuuuuito minhas expectativas,</strong>
+                            <br>
+                            achei que não me encontraria por ser um evento voltado mais para empreendedorismo do
+                            que técnica, mas foi incrível vi o quanto é importante saber literalmente de tudo que se
+                            relaciona ao próprio negócio! Foi uma tarde maravilhosa de muito conhecimento, novas conexões,
+                            e um dia inesquecível de muitos que ainda quero participar.
+                        </p>
+                        <p class="mt-1">
+                            <strong>Elisa Graziela</strong>
+                        </p>
+                    </div>
+                    <div class="card-comment text-left">
+                        <div>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                        </div>
+                        <p class="mt-1">
+                            <strong>Incentivo e Crescimento</strong>
+                            <br>
+                            é muito bom estar cercada de pessoas que nos incentivam e nos fazem crescer.
+                        </p>
+                        <p>
+                            Foi muito importante para perceber o que estamos fazendo em nosso serviços, coisas pequenas que devemos mudar ou perceber que estamos no caminho certo com nossas decisões que tomamos.
+                        </p>
+                        <p class="mt-1">
+                            <strong>Geovana Ferreira</strong>
+                        </p>
+                    </div>
+                    <div class="card-comment text-left">
+                        <div>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                        </div>
+                        <p class="mt-1">
+                            <strong>Fui Surpreendida</strong>
+                            <br>
+                            Imaginava algo mais simples e entregaram muito mais do que o esperado! Evento muito bem organizado, foi especial ser recepcionada pela Analice e Jéssica. Sinceramente vocês me surpreenderam. Vocês entregaram muito. Parabéns!
+                        </p>
+                        <p class="mt-1">
+                            <strong>Gabriela</strong>
+                        </p>
+                    </div>
+                    <div class="card-comment text-left">
+                        <div>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                        </div>
+                        <p class="mt-1">
+                            <strong>Me senti honrada </strong>
+                            <br>
+                            em poder participar do evento, foi muito mais que uma conexão. Um evento tão enriquecedor.... muitooo aprendizado, firmei novas amizades.
+                        </p>
+                        <p class="mt-1">
+                            <strong>Lucineide Soares Lima</strong>
+                        </p>
+                    </div>
+                    <div class="card-comment text-left">
+                        <div>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                        </div>
+                        <p class="mt-1">
+                            <strong>Me abriu os "olhos"</strong>
+                            <br>
+                            e me fez enxergar o meu negócio com outra visão, foi muito bom. Vocês envolveram as pessoas e mostraram que isso, o relacionamento, é importante para o sucesso e crescimento. Tive uma impressão ótima, comprometimento, profissionalismo, atenção e carinho.
+                        </p>
+                        <p class="mt-1">
+                            <strong>Rosiane</strong>
+                        </p>
+                    </div>
+                    <div class="card-comment text-left">
+                        <div>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                            <i class="fa-solid fa-star" style="color:yellow"></i>
+                        </div>
+                        <p class="mt-1">
+                            <strong>Era isso que eu precisava,</strong>
+                            <br>
+                            foi demais, já estou ansiosa pra próxima. Foi tudo muito bem organizado, Parabéns você arrasaram, foi incrível.
+                        </p>
+                        <p class="mt-1">
+                            <strong>Ana Carolina Berte </strong>
+                        </p>
+                    </div>
+
+                </div>
+            </div>
         </section>
 
         <section class="section-2" id="mentoras" style="padding: 0;background-image: url('assets/media/background-2.webp');">
