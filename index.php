@@ -552,42 +552,42 @@
                 <p class="text-5 text-bold text-primary" style="padding: 0 16px 0 16px;">Seja um Apoiador e Parceiro da Conexão Beauty.</p>
                 <p class="text-2 text-bold mt-3 text-grey">O Elenco que Movimenta a Conexão!</p>
                 <div class="div-card-3 mt-3">
-                    <a href="#" target="_blank">
+                    <a href="https://www.instagram.com/aventuranocaminho/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-1.png" alt="Patrocinador | Aventura no Caminho" title="Aventura no Caminho">
                         </div>
                     </a>
-                    <a href="#" target="_blank">
+                    <a href="https://www.instagram.com/dainesejoias/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-2.png" alt="Patrocinador | Daianese jóias e Acessórios" title="Daianese jóias e Acessórios">
                         </div>
                     </a>
-                    <a href="#" target="_blank">
+                    <a href="https://www.instagram.com/daniandreaesteticista/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-3.png" alt="Patrocinador | Dani Andréa - Estética Facial e Corporal" title="Dani Andréa Estética Facial e Corporal">
                         </div>
                     </a>
-                    <a href="#" target="_blank">
+                    <a href="https://www.instagram.com/emporiodascarnessc/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-4.png" alt="Patrocinador | Empório das Carnes Rodrigues" title="Empório das Carnes Rodrigues">
                         </div>
                     </a>
-                    <a href="#" target="_blank">
+                    <a href=" https://www.instagram.com/judocesefestas/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-5.png" alt="Patrocinador | Ju Doces e Festas" title="Ju Doces e Festas">
                         </div>
                     </a>
-                    <a href="#" target="_blank">
+                    <a href="https://www.instagram.com/paesstipp/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-6.png" alt="Patrocinador | Pão do Stipp - Nutrindo Campeões" title="Pão do Stipp - Nutrindo Campeões">
                         </div>
                     </a>
-                    <a href="#" target="_blank">
+                    <a href="https://www.instagram.com/tocadosaborprodutosartesanais/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-7.png" alt="Patrocinador | Toca do sabor" title="Toca do sabor">
                         </div>
                     </a>
-                    <a href="#" target="_blank">
+                    <a href="https://www.instagram.com/4selfoficial/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-8.png" alt="Patrocinador | 4 self - Cabines Fotográficas" title="4 self - Cabines Fotográficas">
                         </div>
