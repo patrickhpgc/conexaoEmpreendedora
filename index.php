@@ -551,7 +551,7 @@
             <div class="container-2 mt-4 mb-4">
                 <p class="text-5 text-bold text-primary" style="padding: 0 16px 0 16px;">Seja um Apoiador e Parceiro da Conexão Beauty.</p>
                 <p class="text-2 text-bold mt-3 text-grey">O Elenco que Movimenta a Conexão!</p>
-                <div class="div-card-3 mt-3">
+                <div class="div-card-3 img-t1 mt-3">
                     <a href="https://www.instagram.com/aventuranocaminho/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-1.png" alt="Patrocinador | Aventura no Caminho" title="Aventura no Caminho">
@@ -592,8 +592,38 @@
                             <img src="assets/media/patrocinadores/p-8.png" alt="Patrocinador | 4 self - Cabines Fotográficas" title="4 self - Cabines Fotográficas">
                         </div>
                     </a>
+                    <a href="https://www.instagram.com/caverzan_supermercado/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-9.png" alt="Patrocinador | Caverzan - Supermercado" title="Caverzan - Supermercado">
+                        </div>
+                    </a>
                 </div>
                 <a href="https://wa.me/554896956673" target="_blank">
+                    <div>
+                        <p class="text-5 text-bold text-primary" style="padding: 0 16px 0 16px;">Patrocinador Master</p>
+                    </div>
+                    <div class="div-card-3 img-t2 mt-3" style="display:none">
+                        <a href="https://www.instagram.com/aventuranocaminho/" target="_blank">
+                            <div class="card-3">
+                                <img src="assets/media/patrocinadores/p-1.png" alt="Patrocinador | Aventura no Caminho" title="Aventura no Caminho">
+                            </div>
+                        </a>
+                        <a href="https://www.instagram.com/dainesejoias/" target="_blank">
+                            <div class="card-3">
+                                <img src="assets/media/patrocinadores/p-2.png" alt="Patrocinador | Daianese jóias e Acessórios" title="Daianese jóias e Acessórios">
+                            </div>
+                        </a>
+                        <a href="https://www.instagram.com/daniandreaesteticista/" target="_blank">
+                            <div class="card-3">
+                                <img src="assets/media/patrocinadores/p-3.png" alt="Patrocinador | Dani Andréa - Estética Facial e Corporal" title="Dani Andréa Estética Facial e Corporal">
+                            </div>
+                        </a>
+                        <a href="https://www.instagram.com/emporiodascarnessc/" target="_blank">
+                            <div class="card-3">
+                                <img src="assets/media/patrocinadores/p-4.png" alt="Patrocinador | Empório das Carnes Rodrigues" title="Empório das Carnes Rodrigues">
+                            </div>
+                        </a>
+                    </div>
                     <button class="btn btn-primary mt-2">
                         <span class="text-2 text-bold">SEJA UM PATROCINADOR</span>
                     </button>

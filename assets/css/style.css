@@ -245,9 +245,14 @@ div>.div-img-thinking {
     flex-wrap      : wrap;
 }
 
-.card-3 {
-    width           : 80px;
-    height          : 80px;
+.img-t1 div {
+    width           : 120px;
+    height          : 120px;
+    margin          : 16px;
+}
+.img-t2 div {
+    width           : 180px;
+    height          : 180px;
     margin          : 16px;
 }
 
