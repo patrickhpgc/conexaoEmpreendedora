@@ -200,6 +200,93 @@
                 <div class="div-cards-4">
 
                     <div class="card-4">
+                        <img src="assets/media/patricia.png" alt="Patrícia Costa">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p>
+                                    Patrícia Costa,
+                                </p>
+                                <p class="mt-1">
+                                    Administradora e Empresária, Bacharel em Ciências Contábeis, Consultora, Master Coach e Mentora ISOR° formada e credenciada na atividade de atendimento individual a gestores de empresas. Possui MBA em Gestão de Mercado para Consultórios e Clínicas. Gestão de processos e Gestão Empresarial.
+                                </p>
+                            </div>
+                            <div class="div-social">
+                                <a href="https://www.instagram.com/patriciaocosta/" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>patriciaocosta</a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold">Patrícia Costa</span>
+                            <span>Administradora e Empresária</span>
+                        </div>
+                    </div>
+
+                    <div class="card-4">
+                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p>
+                                </p>
+                            </div>
+                            <div class="div-social" style="visibility:hidden">
+                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold"></span>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="card-4">
+                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p>
+                                </p>
+                            </div>
+                            <div class="div-social" style="visibility:hidden">
+                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold"></span>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="card-4">
+                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p>
+                                </p>
+                            </div>
+                            <div class="div-social" style="visibility:hidden">
+                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold"></span>
+                            <span></span>
+                        </div>
+                    </div>
+
+                    <div class="card-4">
+                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <div class="hover-description text-grey">
+                            <div class="text-1">
+                                <p>
+                                </p>
+                            </div>
+                            <div class="div-social" style="visibility:hidden">
+                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            </div>
+                        </div>
+                        <div class="border-name text-white">
+                            <span class="text-2 text-bold"></span>
+                            <span></span>
+                        </div>
+                    </div>
+
+                    <div class="card-4">
                         <img src="assets/media/jessica.png" alt="Jéssica Capistrano">
                         <div class="hover-description text-grey">
                             <div class="text-1">
@@ -216,7 +303,7 @@
                         </div>
                         <div class="border-name text-white">
                             <span class="text-2 text-bold">Jéssica Capistrano</span>
-                            <span>Esteticista</span>
+                            <span>Educadora e Esteticista</span>
                         </div>
                     </div>
 
@@ -259,9 +346,8 @@
                             <span></span>
                         </div>
                     </div>
-
                     <div class="card-4">
-                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <img src="assets/media/oculto-1.webp" alt="Oculto">
                         <div class="hover-description text-grey">
                             <div class="text-1">
                                 <p>
@@ -598,32 +684,32 @@
                         </div>
                     </a>
                 </div>
-                <a href="https://wa.me/554896956673" target="_blank">
-                    <div>
-                        <p class="text-5 text-bold text-primary" style="padding: 0 16px 0 16px;">Patrocinador Master</p>
-                    </div>
-                    <div class="div-card-3 img-t2 mt-3" style="display:none">
-                        <a href="https://www.instagram.com/aventuranocaminho/" target="_blank">
-                            <div class="card-3">
-                                <img src="assets/media/patrocinadores/p-1.png" alt="Patrocinador | Aventura no Caminho" title="Aventura no Caminho">
-                            </div>
-                        </a>
-                        <a href="https://www.instagram.com/dainesejoias/" target="_blank">
-                            <div class="card-3">
-                                <img src="assets/media/patrocinadores/p-2.png" alt="Patrocinador | Daianese jóias e Acessórios" title="Daianese jóias e Acessórios">
-                            </div>
-                        </a>
-                        <a href="https://www.instagram.com/daniandreaesteticista/" target="_blank">
-                            <div class="card-3">
-                                <img src="assets/media/patrocinadores/p-3.png" alt="Patrocinador | Dani Andréa - Estética Facial e Corporal" title="Dani Andréa Estética Facial e Corporal">
-                            </div>
-                        </a>
-                        <a href="https://www.instagram.com/emporiodascarnessc/" target="_blank">
-                            <div class="card-3">
-                                <img src="assets/media/patrocinadores/p-4.png" alt="Patrocinador | Empório das Carnes Rodrigues" title="Empório das Carnes Rodrigues">
-                            </div>
-                        </a>
-                    </div>
+                <div>
+                    <p class="text-5 text-bold text-primary" style="padding: 0 16px 0 16px;">Patrocinador Master</p>
+                </div>
+                <div class="div-card-3 img-t2 mt-3" style="display:none">
+                    <a href="https://www.instagram.com/aventuranocaminho/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-1.png" alt="Patrocinador | Aventura no Caminho" title="Aventura no Caminho">
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/dainesejoias/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-2.png" alt="Patrocinador | Daianese jóias e Acessórios" title="Daianese jóias e Acessórios">
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/daniandreaesteticista/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-3.png" alt="Patrocinador | Dani Andréa - Estética Facial e Corporal" title="Dani Andréa Estética Facial e Corporal">
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/emporiodascarnessc/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-4.png" alt="Patrocinador | Empório das Carnes Rodrigues" title="Empório das Carnes Rodrigues">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://wa.me/5548991066875" target="_blank">
                     <button class="btn btn-primary mt-2">
                         <span class="text-2 text-bold">SEJA UM PATROCINADOR</span>
                     </button>
