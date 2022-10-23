@@ -221,37 +221,54 @@
                     </div>
 
                     <div class="card-4">
-                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <img src="assets/media/kamilla.png" alt="Kamilla Lehmkuhl">
                         <div class="hover-description text-grey">
                             <div class="text-1">
                                 <p>
+                                    Kamilla Lehmkuhl,
+                                </p>
+                                <p class="mt-1">
+                                    Desde a infância o mundo da maquiagem sempre a encantou, na adolescência decidiu que esta seria sua profissão, já que nada que ela fizesse a completava tão inteiramente como a maquiagem.
+                                </p>
+                                <p class="mt-1">
+                                    Iniciou sua carreira como maquiadora profissional no ano de 2014, com 18 anos.
+                                    Começou a entender que tinha muita aptidão para ensinar, atender e não queria ser mais uma em meio a multidão. Então decidiu empreender e iniciar no universo da maquiagem de cabeça!
                                 </p>
                             </div>
-                            <div class="div-social" style="visibility:hidden">
-                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            <div class="div-social">
+                                <a href="https://www.instagram.com/kamillalehmkuhl/" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>kamillalehmkuhl</a>
                             </div>
                         </div>
                         <div class="border-name text-white">
-                            <span class="text-2 text-bold"></span>
-                            <span></span>
+                            <span class="text-2 text-bold">Kamilla Lehmkuhl</span>
+                            <span>Maquiadora, Empreendedora e Influencer</span>
                         </div>
                     </div>
+
                     <div class="card-4">
-                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <img src="assets/media/jessica_p.png" alt="Jéssica Pereira">
                         <div class="hover-description text-grey">
                             <div class="text-1">
                                 <p>
+                                    Jéssica Pereira,
+                                </p>
+                                <p class="mt-1">
+                                    Especialista em Harmonização corporal e facial, Professora de pós graduação, Mentora e Palestrante.
+                                </p>
+                                <p class="mt-1">
+                                    Precursora do projeto Beleza Social, pelo qual acessibiliza a estética para todas(os). Apaixonada em harmonizar não somente o corpo, mas a autoestima do ser humano através da estética correta baseada em evidências e estudo científico.
                                 </p>
                             </div>
-                            <div class="div-social" style="visibility:hidden">
-                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            <div class="div-social">
+                                <a href="https://www.instagram.com/dra.jessicapereira_/" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>dra.jessicapereira_</a>
                             </div>
                         </div>
                         <div class="border-name text-white">
-                            <span class="text-2 text-bold"></span>
-                            <span></span>
+                            <span class="text-2 text-bold">Patrícia Costa</span>
+                            <span>Biomédica e Enfermeira Esteta</span>
                         </div>
                     </div>
+
                     <div class="card-4">
                         <img src="assets/media/oculto-2.webp" alt="Oculto">
                         <div class="hover-description text-grey">
