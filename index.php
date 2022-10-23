@@ -264,7 +264,7 @@
                             </div>
                         </div>
                         <div class="border-name text-white">
-                            <span class="text-2 text-bold">Patrícia Costa</span>
+                            <span class="text-2 text-bold">Jéssica Pereira</span>
                             <span>Biomédica e Enfermeira Esteta</span>
                         </div>
                     </div>
