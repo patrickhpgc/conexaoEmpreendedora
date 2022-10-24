@@ -23,8 +23,8 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <!-- Global site tag (gtag.js) - Google Ads: 619621339 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-619621339"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XR8QLPGZYQ"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -33,15 +33,7 @@
         }
         gtag('js', new Date());
 
-        gtag('config', 'AW-619621339');
-    </script>
-
-    <!-- Event snippet for Website sale conversion page -->
-    <script>
-        gtag('event', 'conversion', {
-            'send_to': 'AW-619621339/u4f0CKuttcwDENvXuqcC',
-            'transaction_id': ''
-        });
+        gtag('config', 'G-XR8QLPGZYQ');
     </script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
