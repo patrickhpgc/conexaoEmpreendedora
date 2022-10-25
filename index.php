@@ -283,21 +283,29 @@
                     </div>
 
                     <div class="card-4">
-                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <img src="assets/media/amanda.png" alt="Amanda Porto">
                         <div class="hover-description text-grey">
                             <div class="text-1">
                                 <p>
+                                    Amanda Porto,
+                                </p>
+                                <p class="mt-1">
+                                    Terapeuta integrativa.
+                                    Aromateurapeuta clínica.
+                                    Praticante de Barras de Access e outras ferramentas para pessoas que buscam mudar suas vidas a partir do autoconhecimento.
+
                                 </p>
                             </div>
-                            <div class="div-social" style="visibility:hidden">
-                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            <div class="div-social">
+                                <a href="https://www.instagram.com/amandaapoorto/" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>amandaapoorto</a>
                             </div>
                         </div>
                         <div class="border-name text-white">
-                            <span class="text-2 text-bold"></span>
-                            <span></span>
+                            <span class="text-2 text-bold">Amanda Porto</span>
+                            <span>Terapeuta integrativa, Aromateurapeuta</span>
                         </div>
                     </div>
+
 
                     <div class="card-4">
                         <img src="assets/media/jessica.png" alt="Jéssica Capistrano">
