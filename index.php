@@ -262,19 +262,23 @@
                     </div>
 
                     <div class="card-4">
-                        <img src="assets/media/oculto-2.webp" alt="Oculto">
+                        <img src="assets/media/marcia.png" alt="Márcia Reus">
                         <div class="hover-description text-grey">
                             <div class="text-1">
                                 <p>
+                                    Márcia Reus,
+                                </p>
+                                <p class="mt-1">
+                                    Farmacêutica graduada pela UFSC. Diretora da Franquia Bioage Florianópolis. Mestre em Ciências Farmacêuticas com Ênfase em Nanotecnologia, Coordenadora da Pós Graduação em Saúde Estética, Docente nas áreas de Estética, Farmácia, Biomedicina e Odontologia. Especialista em Saúde Estética reconhecida pelo CRF/SC.
                                 </p>
                             </div>
-                            <div class="div-social" style="visibility:hidden">
-                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            <div class="div-social">
+                                <a href="https://www.instagram.com/profmarciareus/" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>profmarciareus</a>
                             </div>
                         </div>
                         <div class="border-name text-white">
-                            <span class="text-2 text-bold"></span>
-                            <span></span>
+                            <span class="text-2 text-bold">Márcia Reus</span>
+                            <span>Farmacêutica, Diretora da Franquia Bioage Florianópolis</span>
                         </div>
                     </div>
 
