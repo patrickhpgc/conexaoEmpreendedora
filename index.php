@@ -355,10 +355,10 @@
                         <div class="hover-description text-grey">
                             <div class="text-1">
                                 <p class="">
-                                Bruna Coelho,
+                                    Bruna Coelho,
                                 </p>
                                 <p class="mt-1">
-                                ao iniciar sua jornada na estética, em menos de um ano, virou referência em um nicho, atua somente com Limpeza de Pele e fatura mais de 18 mil no mês. Ensina a importância de ser repetitiva e como ser referência em menos de 1 ano.
+                                    ao iniciar sua jornada na estética, em menos de um ano, virou referência em um nicho, atua somente com Limpeza de Pele e fatura mais de 18 mil no mês. Ensina a importância de ser repetitiva e como ser referência em menos de 1 ano.
                                 </p>
                             </div>
                             <div class="div-social">
@@ -370,21 +370,25 @@
                             <span>Cosmetóloga e Estéticista, Empreendedora</span>
                         </div>
                     </div>
-                    
+
                     <div class="card-4">
-                        <img src="assets/media/oculto-1.webp" alt="Oculto">
+                        <img src="assets/media/alan.png" alt="Alan Silveira">
                         <div class="hover-description text-grey">
                             <div class="text-1">
-                                <p>
+                                <p class="">
+                                    Alan Silveira,
+                                </p>
+                                <p class="mt-1">
+                                    Visagista, Cabeleireiro, Maquiador, criador da CAHOS, Mentor de Criação de Negócios para o Público Feminino, Branding e Marketing Digital. Bacharel em Direito, pós-graduado pela USP, Professor da Pós Graduação em Tricologia - UNIT, Professor do Curso Tecnólogo em Estética e Cosmética SENAC, Avaliador Olimpíadas do Conhecimento.
                                 </p>
                             </div>
-                            <div class="div-social" style="visibility:hidden">
-                                <a href="#" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i></a>
+                            <div class="div-social">
+                                <a href="https://www.instagram.com/alan_o_de_saia/?hl=pt-br" class="text-grey text-2" target="_blank"><i class="fa-brands fa-instagram mr-1"></i>alan_o_de_saia</a>
                             </div>
                         </div>
                         <div class="border-name text-white">
-                            <span class="text-2 text-bold"></span>
-                            <span></span>
+                            <span class="text-2 text-bold">Alan Silveira</span>
+                            <span>Cabeleireiro Visagista, Professor e Entusiasta de Mulheres</span>
                         </div>
                     </div>
 
@@ -712,25 +716,10 @@
                 <div>
                     <p class="text-5 text-bold text-primary" style="padding: 0 16px 0 16px;">Patrocinador Master</p>
                 </div>
-                <div class="div-card-3 img-t2 mt-3" style="display:none">
-                    <a href="https://www.instagram.com/aventuranocaminho/" target="_blank">
+                <div class="div-card-3 img-t2 mt-3" style="">
+                    <a href="https://www.instagram.com/extratosdaterraoficial/?hl=pt-br" target="_blank">
                         <div class="card-3">
-                            <img src="assets/media/patrocinadores/p-1.png" alt="Patrocinador | Aventura no Caminho" title="Aventura no Caminho">
-                        </div>
-                    </a>
-                    <a href="https://www.instagram.com/dainesejoias/" target="_blank">
-                        <div class="card-3">
-                            <img src="assets/media/patrocinadores/p-2.png" alt="Patrocinador | Daianese jóias e Acessórios" title="Daianese jóias e Acessórios">
-                        </div>
-                    </a>
-                    <a href="https://www.instagram.com/daniandreaesteticista/" target="_blank">
-                        <div class="card-3">
-                            <img src="assets/media/patrocinadores/p-3.png" alt="Patrocinador | Dani Andréa - Estética Facial e Corporal" title="Dani Andréa Estética Facial e Corporal">
-                        </div>
-                    </a>
-                    <a href="https://www.instagram.com/emporiodascarnessc/" target="_blank">
-                        <div class="card-3">
-                            <img src="assets/media/patrocinadores/p-4.png" alt="Patrocinador | Empório das Carnes Rodrigues" title="Empório das Carnes Rodrigues">
+                            <img src="assets/media/patrocinadores/p-10.png" alt="Patrocinador | Extratos da Terra" title="Extratos da Terra">
                         </div>
                     </a>
                 </div>
