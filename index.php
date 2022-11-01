@@ -634,14 +634,14 @@
                     <p class="text-2">
                         <u>Pagamento via Pix</u>
                     </p>
-                    <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 147,00</span> à vista</p>
+                    <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 197,00</span> à vista</p>
                     <a href="https://www.asaas.com/c/738899808740" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">1° LOTE</span>
+                        <span class="text-0 text-regular">2° LOTE</span>
                     </div>
                 </div>
                 <div class="card-payment">
@@ -649,74 +649,86 @@
                         <u>Pagamento via Cartão de Crédito</u>
                     </p>
                     <p class="text-1 mt-3" style="display: none;">2x de <span class="text-4 text-bold">R$ 73,50</span></p>
-                    <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 147,00</span> à vista</p>
+                    <p class="text-1 mt-3">em até 2x <span class="text-4 text-bold">R$ 98,50</span></p>
                     <a href="https://www.asaas.com/c/218704009735" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">1° LOTE</span>
+                        <span class="text-0 text-regular">2° LOTE</span>
                     </div>
                 </div>
                 <div class="card-payment">
                     <p class="text-2">
                         <u>2 Ingressos via Pix</u>
                     </p>
+                    <p class="text-2 mt-3">
+                        15% OFF
+                    </p>
                     <p class="text-1 mt-3" style="display: none;">2x de <span class="text-4 text-bold">R$ 73,50</span></p>
-                    <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 279,00</span> à vista</p>
+                    <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 364,45</span> à vista</p>
                     <a href="https://www.asaas.com/c/158098179211" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">1° LOTE</span>
+                        <span class="text-0 text-regular">2° LOTE</span>
                     </div>
                 </div>
                 <div class="card-payment">
                     <p class="text-2">
                         <u>2 Ingressos via Cartão de Crédito</u>
                     </p>
-                    <p class="text-1 mt-3" style="">2x de <span class="text-3 text-bold">R$ 139,50</span></p>
-                    <p class="text-1 mt-3">ou <span class="text-4 text-bold">R$ 279,00</span> à vista</p>
+                    <p class="text-2 mt-3">
+                        10% OFF
+                    </p>
+                    <p class="text-1 mt-3" style="display:none">2x de <span class="text-3 text-bold">R$ 139,50</span></p>
+                    <p class="text-1 mt-3">em até 3x <span class="text-4 text-bold">R$ 124,83</span></p>
                     <a href="https://www.asaas.com/c/956901257622" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">1° LOTE</span>
+                        <span class="text-0 text-regular">2° LOTE</span>
                     </div>
                 </div>
                 <div class="card-payment">
                     <p class="text-2">
                         <u>3 Ingressos via Pix</u>
                     </p>
+                    <p class="text-2 mt-3">
+                        20% OFF
+                    </p>
                     <p class="text-1 mt-3" style="display: none;">2x de <span class="text-4 text-bold">R$ 73,50</span></p>
-                    <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 419,00</span> à vista</p>
+                    <p class="text-1 mt-3">apenas <span class="text-4 text-bold">R$ 551,60</span> à vista</p>
                     <a href="https://www.asaas.com/c/893464227268" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">1° LOTE</span>
+                        <span class="text-0 text-regular">2° LOTE</span>
                     </div>
                 </div>
                 <div class="card-payment">
                     <p class="text-2">
                         <u>3 Ingressos via Cartão de Crédito</u>
                     </p>
-                    <p class="text-1 mt-3" style="">3x de <span class="text-3 text-bold">R$ 139,67</span></p>
-                    <p class="text-1 mt-3">ou <span class="text-4 text-bold">R$ 419,00</span> à vista</p>
+                    <p class="text-2 mt-3">
+                        15% OFF
+                    </p>
+                    <p class="text-1 mt-3" style="display:none">3x de <span class="text-3 text-bold">R$ 139,67</span></p>
+                    <p class="text-1 mt-3">em até 4x <span class="text-4 text-bold">R$ 140,36</span></p>
                     <a href="https://www.asaas.com/c/516416104827" target="_blank">
                         <button class="btn btn-secondary mt-3">
                             <span class="text-2 text-bold">QUERO PARTICIPAR</span>
                         </button>
                     </a>
                     <div class="div-lote">
-                        <span class="text-0 text-regular">1° LOTE</span>
+                        <span class="text-0 text-regular">2° LOTE</span>
                     </div>
                 </div>
             </div>
