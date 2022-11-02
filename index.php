@@ -788,14 +788,14 @@
                 <div>
                     <p class="text-5 text-bold text-primary" style="padding: 0 16px 0 16px;">Patrocinador Master</p>
                 </div>
-                <div class="div-card-3 img-t2 mt-3" style="">
+                <div class="div-card-3 img-t2 mt-3">
                     <a href="https://www.instagram.com/extratosdaterraoficial/?hl=pt-br" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-10.png" alt="Patrocinador | Extratos da Terra" title="Extratos da Terra">
                         </div>
                     </a>
                 </div>
-                <a href="https://wa.me/5548991066875" target="_blank">
+                <a href="https://wa.me/5548999333638" target="_blank">
                     <button class="btn btn-primary mt-2">
                         <span class="text-2 text-bold">SEJA UM PATROCINADOR</span>
                     </button>
@@ -893,7 +893,7 @@
     </a>
 
     <div id="loader">
-        <img src="assets/images/loader.gif" alt="">
+        <img src="assets/images/loader.gif" alt="Carregador da página">
     </div>
 
     <script type="text/javascript" src="assets/glide-3.4.1/dist/glide.min.js"></script>
