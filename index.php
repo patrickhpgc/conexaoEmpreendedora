@@ -351,27 +351,6 @@
                     </div>
 
                     <div class="card-4">
-                        <img src="assets/media/bruna.png" alt="Bruna Coelho">
-                        <div class="hover-description text-grey">
-                            <div class="text-1">
-                                <p class="">
-                                    Bruna Coelho,
-                                </p>
-                                <p class="mt-1">
-                                    ao iniciar sua jornada na estética, em menos de um ano, virou referência em um nicho, atua somente com Limpeza de Pele e fatura mais de 18 mil no mês. Ensina a importância de ser repetitiva e como ser referência em menos de 1 ano.
-                                </p>
-                            </div>
-                            <div class="div-social">
-                                <a href="https://www.instagram.com/brunacoelholimpezadepele/" class="text-grey text-2" target="_blank" style="font-size: 1rem"><i class="fa-brands fa-instagram mr-1"></i>brunacoelholimpezadepele</a>
-                            </div>
-                        </div>
-                        <div class="border-name text-white">
-                            <span class="text-2 text-bold">Bruna Coelho</span>
-                            <span>Cosmetóloga e Estéticista, Empreendedora</span>
-                        </div>
-                    </div>
-
-                    <div class="card-4">
                         <img src="assets/media/alan.png" alt="Alan Silveira">
                         <div class="hover-description text-grey">
                             <div class="text-1">
@@ -749,11 +728,6 @@
                             <img src="assets/media/patrocinadores/p-2.png" alt="Patrocinador | Daianese jóias e Acessórios" title="Daianese jóias e Acessórios">
                         </div>
                     </a>
-                    <a href="https://www.instagram.com/daniandreaesteticista/" target="_blank">
-                        <div class="card-3">
-                            <img src="assets/media/patrocinadores/p-3.png" alt="Patrocinador | Dani Andréa - Estética Facial e Corporal" title="Dani Andréa Estética Facial e Corporal">
-                        </div>
-                    </a>
                     <a href="https://www.instagram.com/emporiodascarnessc/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-4.png" alt="Patrocinador | Empório das Carnes Rodrigues" title="Empório das Carnes Rodrigues">
@@ -784,6 +758,26 @@
                             <img src="assets/media/patrocinadores/p-9.png" alt="Patrocinador | Caverzan - Supermercado" title="Caverzan - Supermercado">
                         </div>
                     </a>
+                    <a href="https://www.instagram.com/maripan_paeseboloo/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-11.png" alt="Patrocinador | MariPan - Confeitaria Artesanal" title="MariPan - Confeitaria Artesanal">
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/schutzesteticacursos/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-13.png" alt="Patrocinador | Schutz - Estética Cursos" title="Schutz - Estética Cursos">
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/roseconsultora.sa/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-14.png" alt="Patrocinador | Rose Consultora - Saúde/beleza" title="Rose Consultora - Saúde/beleza">
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/temp_da_mi/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-15.png" alt="Patrocinador | Tempero da Mi - Um passo de cada vez" title="Tempero da Mi - Um passo de cada vez">
+                        </div>
+                    </a>
                 </div>
                 <div>
                     <p class="text-5 text-bold text-primary" style="padding: 0 16px 0 16px;">Patrocinador Master</p>
@@ -792,6 +786,11 @@
                     <a href="https://www.instagram.com/extratosdaterraoficial/?hl=pt-br" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-10.png" alt="Patrocinador | Extratos da Terra" title="Extratos da Terra">
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/scbeauty.oficial/" target="_blank">
+                        <div class="card-3">
+                            <img src="assets/media/patrocinadores/p-12.png" alt="Patrocinador | SC Beauty - Distribuidora de Cosméticos" title="SC Beauty - Distribuidora de Cosméticos" style="width: 150px;height: 150px;">
                         </div>
                     </a>
                 </div>
