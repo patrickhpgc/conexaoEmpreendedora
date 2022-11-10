@@ -768,11 +768,6 @@
                             <img src="assets/media/patrocinadores/p-13.png" alt="Patrocinador | Schutz - Estética Cursos" title="Schutz - Estética Cursos">
                         </div>
                     </a>
-                    <a href="https://www.instagram.com/roseconsultora.sa/" target="_blank">
-                        <div class="card-3">
-                            <img src="assets/media/patrocinadores/p-14.png" alt="Patrocinador | Rose Consultora - Saúde/beleza" title="Rose Consultora - Saúde/beleza">
-                        </div>
-                    </a>
                     <a href="https://www.instagram.com/temp_da_mi/" target="_blank">
                         <div class="card-3">
                             <img src="assets/media/patrocinadores/p-15.png" alt="Patrocinador | Tempero da Mi - Um passo de cada vez" title="Tempero da Mi - Um passo de cada vez">
