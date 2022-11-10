@@ -830,11 +830,11 @@
             <p class="text-4 text-bold">Principais dúvidas</p>
             <div class="container-2 mt-3">
                 <button class="accordion">
-                    <span class="text-2">Aonde será o conexão empreendedora?</span>
+                    <span class="text-2">Aonde será o conexão Beauty?</span>
                     <i class="fa-solid fa-angle-up"></i>
                 </button>
                 <div class="panel">
-                    <p class="text-2">O conexão empreendedora acontecerá no K Platz Corporate - Auditório.</p>
+                    <p class="text-2">O conexão Beauty acontecerá no K Platz Corporate - Auditório.</p>
                 </div>
 
                 <button class="accordion mt-2">
@@ -842,7 +842,7 @@
                     <i class="fa-solid fa-angle-up"></i>
                 </button>
                 <div class="panel">
-                    <p class="text-2">Na compra do ingresso para o conexão empreendedora você terá direito a um coffee break.</p>
+                    <p class="text-2">Na compra do ingresso para o conexão Beauty você terá direito a um coffee break.</p>
                 </div>
 
                 <button class="accordion mt-2">
