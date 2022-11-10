@@ -76,7 +76,7 @@
             <div class="div-banner">
                 <div class="container-2">
                     <div class="text-left">
-                        <p class="text-2 text-regular" style="border-bottom: 1px dotted white;">13 de novembro, às 12h, em São José/SC</p>
+                        <p class="text-2 text-regular" style="border-bottom: 1px dotted white;">18 de março, às 9h 30min, em São José/SC</p>
                         <p class="text-8 text-bold text-secondary font-2 mt-1 title">Conexão Beauty</p>
                         <p class="text-2 mt-3">Um evento que une profissionais das áreas da Saúde Integrativa, Beleza e Estética. Mostra a importância de cada setor e conhecimento, além de técnicas e práticas, durante o processo de empreender.</p>
                         <p class="text-1 mt-1">Desenvolva seu Empreendedorismo, Posicionamento Profissional, Inteligência Emocional, Marketing Digital, e mais!</p>
@@ -118,10 +118,10 @@
                     </p>
                     <div class="div-cards-2 text-2 mt-2">
                         <div class="card-2">
-                            Palestras
+                            Certificado
                         </div>
                         <div class="card-2">
-                            Dinâmicas
+                            Palestras
                         </div>
                         <div class="card-2">
                             Sorteios
@@ -802,11 +802,11 @@
                 <div class="text-left">
                     <p class="text-5 text-bold">Aonde será a Conexão Beauty</p>
                     <p class="text-2 text-bold mt-3">Quando?</p>
-                    <p class="text-2">Domingo, 13 de novembro, das 12h às 20h</p>
+                    <p class="text-2">Domingo, 18 de março, das 9h 30min às 18h</p>
                     <p class="text-2 text-bold mt-3">Aonde?</p>
                     <p class="text-2">R. Elizeu di Bernardi, 34 - Campinas, São José - SC, 88101-050</p>
                     <p class="text-2">K Platz Corporate - Auditório</p>
-                    <p class="text-1 mt-2">Não esqueça seu ingresso! O credenciamento ocorrerá a partir das 12h com a apresentação do mesmo.</p>
+                    <p class="text-1 mt-2">Não esqueça seu ingresso! O credenciamento ocorrerá a partir das 9:30 com a apresentação do mesmo.</p>
                 </div>
                 <div class="ml-2">
                     <div class="div-maps" style="border-radius: 8px;overflow:hidden;">
